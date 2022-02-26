@@ -1,0 +1,957 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Book of fruits &amp; flovvers. Shewing the nature and use of them, either for meat or medicine. As also: to preserve, conserve, candy, and in wedges, or dry them. To make powders, civet bagges, all sort of sugar-works, turn'd works in sugar, hollow or frutages; and to pickell them. And for meat. To make pyes, biscat, maid dishes, marchpanes, leeches, and snow, craknels, caudels, cakes, broths, fritter-stuffe, puddings, tarts, syrupes, and sallets. For medicines. To make all sorts of poultisses, and serecloaths for any member swell'd or inflamed, ointments, waters for all wounds, and cancers, salves for aches, to take the ague out of any place burning or scalding; for the stopping of suddain bleeding, curing the piles, ulcers, ruptures, coughs, consumptions, and killing of warts, to dissolve the stone, killing the ring-worme, emroids, and dropsie, paine in the ears and teeth, deafnesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77078</idno>
+            <idno type="STC">Wing B3708</idno>
+            <idno type="STC">Thomason E690_13</idno>
+            <idno type="STC">ESTC R206996</idno>
+            <idno type="EEBO-CITATION">99866073</idno>
+            <idno type="PROQUEST">99866073</idno>
+            <idno type="VID">118333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118333)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E690[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Book of fruits &amp; flovvers. Shewing the nature and use of them, either for meat or medicine. As also: to preserve, conserve, candy, and in wedges, or dry them. To make powders, civet bagges, all sort of sugar-works, turn'd works in sugar, hollow or frutages; and to pickell them. And for meat. To make pyes, biscat, maid dishes, marchpanes, leeches, and snow, craknels, caudels, cakes, broths, fritter-stuffe, puddings, tarts, syrupes, and sallets. For medicines. To make all sorts of poultisses, and serecloaths for any member swell'd or inflamed, ointments, waters for all wounds, and cancers, salves for aches, to take the ague out of any place burning or scalding; for the stopping of suddain bleeding, curing the piles, ulcers, ruptures, coughs, consumptions, and killing of warts, to dissolve the stone, killing the ring-worme, emroids, and dropsie, paine in the ears and teeth, deafnesse.</title>
+               </titleStmt>
+               <extent>[2], 49, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for Tho: Jenner at the south entrance of the Royall Exchange, London.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+               <term>Cookery --  England --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Recipes --  Early works to 1800.</term>
+               <term>Canning and preserving --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118333:1" rendition="simple:additions"/>
+            <p>A BOOK OF Fruits &amp; Flovvers.</p>
+            <p>SHEWING The Nature and Uſe of them, either for Meat or Medicine.</p>
+            <p>AS ALSO: To Preſerve, Conſerve, Candy, and in Wedges, or Dry them. To make Powders, Civet bagges, all ſorts of Sugar-works, turn'd works in Sugar, Hollow, or Frutages; and to Pickell them.</p>
+            <p>
+               <hi>And for Meat.</hi>
+            </p>
+            <p>To make Pyes, Biſcat, Maid Diſhes, Marchpanes, Leeches, and Snow, Craknels, Caudels, Cakes, Broths, Fritter<g ref="char:EOLhyphen"/>ſtuffe, Puddings, Tarts, Syrupes, and Sallets.</p>
+            <p>
+               <hi>For Medicines.</hi>
+            </p>
+            <p>To make all ſorts of Poultiſſes, and Serecloaths for any member ſwell'd or inflamed, Ointments, Waters for all Wounds, and Cancers, Salves for Aches, to take the Ague out of any place Burning or Scalding; For the ſtopping of ſuddain Bleeding, curing the Piles, Ulcers, Ruptures, Coughs, Conſumptions, and killing of Warts, to diſſolve the Stone, killing the Ring-worme, Emroids, and Dropſie, Paine in the Ears and Teeth, Deafneſſe.</p>
+            <q>
+               <hi>Contra vim mortis, non eſt Medicamen in hortis.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. S.</hi> for <hi>Tho: Jenner</hi> at the South entrance of the <hi>Royall Exchange,</hi> London. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:118333:2"/>
+               <pb n="1" facs="tcp:118333:2"/>
+               <head>Of Lemmons.</head>
+               <p>
+                  <figure>
+                     <figDesc>lemon at the end of a branch with two leaves</figDesc>
+                     <head>Lemmon</head>
+                  </figure>
+               </p>
+               <div type="recipe">
+                  <head>A Lemmon Sallet.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Ake <hi>Lemmons,</hi> rub them upon a Grate, to make their rinds ſmooth, cut them in halves, take out the meat of them, and boyle them in faire water a good while, changing the water once or twice in the boyling, to take away the bitterneſſe of them, when they are tender take them out and ſcrape away all the meat (if any be left) very cleane, then cut them as thin as you can (to
+<pb n="2" facs="tcp:118333:3"/>make them hold) in a long ſtring, or in reaſonable ſhort pieces, and lay them in your glaſſe, and boyling ſome of the beſt <hi>White</hi>-wine vineger with ſhugar, to a reaſonable thin Syrupe, powre it upon them into your glaſſe, and keep them for your uſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Preſerve Orenges or Lemmons.</head>
+                  <p>Take your <hi>Oranges</hi> or <hi>Lemmons,</hi> lay them in water three dayes, and three nights, to take away their bitterneſſe, then boyle them in faire water till they be tender, make as much Syrupe for them as will make them ſwim about the pan, let them not boyle too long therein, for it will make the skins tough; then let them lie all night in the Syrupe, to make them take the Syrupe in the morning, boyle the Syrupe to his thickneſſe, and put them in gally pots or glaſſes, to keep all the yeare, and this is the beſt way to Preſerve <hi>Orenges, Lemmons,</hi> or <hi>Citrons.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To make Paſt of Lemmons.</head>
+                  <p>Take halfe a dozen of thick-rined <hi>Lemmons,</hi> cut them through the middeſt, and boyle them tender in faire water, then ſtamp them in a Morter, ſtrayne the juyce or pulp from them, and dry it, and put two pound of <hi>Shugar</hi> to it, then make it into what fa<g ref="char:EOLhyphen"/>ſhion you will, on a ſheet of white paper, dry it in an Oven, and turne it often for two dayes and two nights, for in that time it will be dry enough; box it thus up, and it will endure all the Yeare.</p>
+               </div>
+               <div type="recipe">
+                  <head>Sweet Bagges to lay amongſt Linnen.</head>
+                  <p>Take <hi>Orris, Cypris, Calamus, Fuſis,</hi> all of them groſſe beaten, and <hi>Gallingall</hi> roots, of each a handfull, and as much of the ſmall tops of <hi>Lavender,</hi> dryed, and put them into baggs to lay among your cloaths. You may put in a handfull or two of <hi>Damask Roſe</hi> leaves dryed, which will ſomewhat better the ſent.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Medicines made of Lemmons.</head>
+               <div type="recipe">
+                  <head>To take away the Spots, or red Pimpels of the face.</head>
+                  <p>Take halfe a pint of raine water, and halfe a pint of good <hi>Ver<g ref="char:EOLhyphen"/>juice,</hi> ſeeth it till it be halfe conſumed, then whilſt it boils ſill it up againe with juyce of <hi>Lemmon,</hi> and ſo let it ſeeth a pretty while; then take it from the fire, and when it is cold put to it the whites of four new laid Eggs, well beaten, and with this water annoynt the place often.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="3" facs="tcp:118333:3"/>
+                  <head>A very good Medicine for the Stone.</head>
+                  <p>Make a Poſſet of a quart of <hi>Rheniſh</hi> wine, a pint of <hi>Ale,</hi> and a pint of <hi>Milke,</hi> then take away the curd, and put into the drink, two handfulls of <hi>Sorrell,</hi> one handfull of <hi>Burnet,</hi> and halfe a hand<g ref="char:EOLhyphen"/>full of <hi>Balm,</hi> boyle them together a good while, but not too long, leaſt the drink be too unpleaſant, then take of the drink a quarter of a pint, or rather halfe a pint, at once, at morning, and to bed<g ref="char:EOLhyphen"/>ward, putting therein firſt two or three ſpoonfulls of juice of <hi>Lem<g ref="char:EOLhyphen"/>mons,</hi> this is an excellent Medicine for the <hi>Stone in the Kidneyes,</hi> to diſſolve and bring it away. It is very good in theſe Diſeaſes of the <hi>Stone,</hi> to uſe <hi>Burnet</hi> often in your drink at Meales, and often to ſteep it in over night, and in the morning put in three or foure ſpoonfulls of juice of <hi>Lemmons,</hi> and to drink thereof a good draught every morning a week together, about the full of the Moone, three dayes before, and three dayes after.</p>
+               </div>
+               <div type="recipe">
+                  <head>To roſte a Shoulder of Mutton with Lemmons.</head>
+                  <p>Take a Shoulder of <hi>Mutton</hi> halfe roſted, out off moſt of the meat thereof, in thin ſlices, into a faire diſh with the gravy thereof, put thereto about the quantity of a pint of clarret wine, with a ſpoon<g ref="char:EOLhyphen"/>full or two at moſt of the beſt wine <hi>Vineger,</hi> ſeaſon it with <hi>Nut<g ref="char:EOLhyphen"/>meggs,</hi> and a little <hi>Ginger,</hi> then pare off the rines of one or two good <hi>Lemmons,</hi> and ſlice them thin into the <hi>Mutton,</hi> when it is al<g ref="char:EOLhyphen"/>moſt well ſtewed between two diſhes, and ſo let them ſtew toge<g ref="char:EOLhyphen"/>ther two or three warmes, when they are enough, put them in a clean diſh, and take the ſhoulder blade being well broyled on a grid-iron, and lay ſit upon your meat, garniſhing your diſhes with ſome ſlices and rinds of the <hi>Lemmons,</hi> and ſo ſerve it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Boyle a Capon with Oranges and Lemmons.</head>
+                  <p>Take <hi>Orenges</hi> and <hi>Lemmons</hi> peeled, and cut them the long way, and if you can, keep your cloves whole, and put them into your beſt Broth of <hi>Mutton</hi> or <hi>Capon,</hi> with <hi>Prunes</hi> or <hi>Currants</hi> three or four dayes, and when they have been well ſodden, cut whole <hi>Pepper,</hi> great <hi>Maſe,</hi> a great peice of <hi>Suggar,</hi> ſome <hi>Roſe</hi>-water, and either <hi>White</hi> wine, or <hi>Clarret</hi> wine, and let all theſe ſeeth together a while, and ſerve it upon Sopps with your <hi>Capon.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>A Lemmond Sallet.</head>
+                  <p>Cut out ſlices of he peele of the <hi>Lemmons,</hi> long wayes, a quar<g ref="char:EOLhyphen"/>ter
+<pb n="4" facs="tcp:118333:4"/>of an inch one piece from another, and then ſlice the <hi>Lem<g ref="char:EOLhyphen"/>mons</hi> very thin, and lay them in a diſh croſſe, and the peeles about the <hi>Lemmons,</hi> and ſcrape a good deal of <hi>Suggar</hi> upon them, and ſo ſerve them.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Quinces.</head>
+               <div type="recipe">
+                  <head>The beſt way to Preſerve Quinces.</head>
+                  <p>FIrſt pare and coare the <hi>Quinces,</hi> and boyle them in faire water till they be very tender, not covering them, then taking them out of the water, take to every pound of them, two pound of <hi>Su<g ref="char:EOLhyphen"/>gar,</hi> and half a pint of water, boyle it to a Syrupe, ſcumming it well, then put in ſome of the Jelly that is waſhed from the <hi>Quince</hi> ker<g ref="char:EOLhyphen"/>nels, and after that, making it boyle a little, put in your <hi>Quinces,</hi> boyle them very faſt, keeping the holes upward as neer as you can, for fear of breaking, and when they are ſo tender that you may thruſt a ruſh through them, take them off, and put them up in your glaſſes, having firſt ſaved ſome Syrupe till it be cold to fill up your glaſſes.</p>
+               </div>
+               <div type="recipe">
+                  <head>A ſpeciall Remembrance in doing them.</head>
+                  <p>When you Preſerve <hi>Quinces,</hi> or make <hi>Marmalade,</hi> take the Ker<g ref="char:EOLhyphen"/>nels out of the raw <hi>Quinces,</hi> and waſh off the Jelly that groweth about them, in faire water, then ſtraine the water and Jelly from the kernels, through ſome fine Cobweb laune, and put the ſame into the <hi>Marmalade,</hi> or preſerved <hi>Quinces,</hi> when they are well ſcum'd, but put not ſo much into your <hi>Quinces,</hi> as into the <hi>Mar<g ref="char:EOLhyphen"/>malade,</hi> for it will Jelly the Syrupe too much; put ſix or ſeven ſpoonfulls of Syrupe into the Jelly. Before you put it into the <hi>Marmalade,</hi> you muſt boyle your <hi>Quinces</hi> more for <hi>Marmalade,</hi> then to preſerve your <hi>Quinces,</hi> and leaſt of them when you make your clear Cakes.</p>
+                  <p>When you would preſerve your <hi>Quinces</hi> white, you muſt not cover them in the boyling, and you muſt put halfe as much <hi>Sugar</hi> more for the white, as for the other. When you would have them red, you muſt cover them in the boyling.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Pickle Quinces.</head>
+                  <p>Boyle your <hi>Quinces</hi> that you intend to keep, whole and unpared,
+<pb n="5" facs="tcp:118333:4"/>
+                     <figure>
+                        <figDesc>quinces attached to a branch; examples of letter Q in Roman, Syriac, Arabic, Hebrew, and an unidentified alphabet</figDesc>
+                        <head>Quince</head>
+                        <p>
+                           <list>
+                              <item>Qq</item>
+                              <item>Qq</item>
+                              <item>Qq</item>
+                              <item>Qq</item>
+                              <item>ܩ q</item>
+                              <!-- Syriac QAPH -->
+                              <item>ٯ ٯ q</item>
+                              <!-- Arabic dotless QAF -->
+                              <item>
+                                 <gap reason="symbol" extent="1 letter">
+                                    <desc>〈☐〉</desc>
+                                 </gap> q</item>
+                              <item>ך qof</item>
+                           </list>
+                        </p>
+                     </figure> in faire water, till they be ſoft, but not too violently for feare you break them, when they are ſoft take them out, and boyle ſome <hi>Quinces</hi> pared, quarter'd, and coar'd, and the parings of the <hi>Quin<g ref="char:EOLhyphen"/>ces</hi> with them in the ſame liquor, to make it ſtrong, and when they have boyled a good time, enough to make the liquor of ſufficient ſtrength, take out the quartered <hi>Quinces</hi> and parings, and put the liquor into a pot big enough to receive all the <hi>Quin<g ref="char:EOLhyphen"/>ces,</hi> both whole and quartered, and put them into it, when the liquor is thorow cold, and ſo keep them for your uſe cloſe covered.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="6" facs="tcp:118333:5"/>
+                  <head>To make Quince Cakes.</head>
+                  <p>Prepare your <hi>Quinces,</hi> and take the juſt weight of them in <hi>Su<g ref="char:EOLhyphen"/>gar,</hi> beaten finely and ſearcing halfe of it, then of the reſt make a Syrupe, uſing the ordinary proportion of a pint of water to a pound of <hi>Sugar,</hi> let your <hi>Quinces</hi> be well beaten, and when the Syrupe is cand height, put in your <hi>Quince,</hi> and boyle it to a paſt, keeping it with continuall ſtirring, then work it up with the bea<g ref="char:EOLhyphen"/>ten <hi>Sugar</hi> which you reſerved, and theſe Cakes will taſt well of the <hi>Quinces.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To make Printed Quidony of Quinces.</head>
+                  <p>Take two pound of <hi>Quinces,</hi> paired, coared, and cut in ſmall pieces, and put them into a faire poſnet, with a quart of ſaire wa<g ref="char:EOLhyphen"/>ter, and when they are boyled tender, put into them one pound of <hi>Sugar</hi> clarified, with halfe a pint of faire water, let them boyle till all the fruit fall to the bottom of the poſnet, then let the li<g ref="char:EOLhyphen"/>quid ſubſtance run through a faire linnen cloath into a clean baſon, then put it into a poſnet, and let it boyle till it come to a jelly, then Print it in your Moulds, and turne it into your boxes. You ſhall know when it is ready to Print, by rouling it on the back of a Spoone.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Roſes.</head>
+               <div type="recipe">
+                  <head>To make ſweet Bagges to lay Linnen in.</head>
+                  <p>Take <hi>Damask Roſe</hi> budds, pluck them, and dry the leaves in the ſhadow, the tops of <hi>Lavender</hi> flowers, ſweet <hi>Margerom,</hi> and <hi>Baſill,</hi> of each a handfull, all dryed and mingled with the <hi>Roſe</hi> leaves, take alſo of <hi>Benjamin, Storax, Gallingall</hi> roots, and <hi>Ireos</hi> or <hi>Orris</hi> roots, twice as much of the <hi>Orris</hi> as of any of the other, beaten in fine powder: a peece of cotten wool wetted in <hi>Roſe</hi> water, and put to it a good quantity of <hi>Murk</hi> and <hi>Ambergreace</hi> made into powder, and ſprinkle them with ſome <hi>Civet</hi> diſſolved in <hi>Roſe</hi> water, lay the Cotten in double paper, and dry it over a chaffia diſh of coales: Laſtly, take halfe a handfull of <hi>Cloves,</hi> and as much <hi>Cinamon</hi> bruiſed, not ſmall beaten, mixe all theſe together, and put them up in your Bagge.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="7" facs="tcp:118333:5"/>
+                  <head>A very good Poultis for any Member ſwell'd and infla<g ref="char:EOLhyphen"/>med, and not broken, to take away the paine.</head>
+                  <p>Take three pints of new milk, of ſtale Manchet crums two hand<g ref="char:EOLhyphen"/>fulls, or ſo much as ſhall make the milk ſomewhat thick, and there<g ref="char:EOLhyphen"/>to put two handfulls of dryed red <hi>Roſe</hi> leaves, and three ounces of Oyle of <hi>Roſes,</hi> boyle all theſe together to the thickneſſe of a Poul<g ref="char:EOLhyphen"/>tiſſe, then let it ſtand and coole, and while it cooleth take a ſpoon<g ref="char:EOLhyphen"/>full of Oyle of <hi>Roſes,</hi> and with a warm hand rub the place grieved, till the Oyle be dryed in, and then lay the Poultiſſe as warm as you may endure it, to the part inflamed; doe this morning and even<g ref="char:EOLhyphen"/>ing for three or four dayes, as you ſhall ſee cauſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make a ſweet Cake, and with it a very ſweet water.</head>
+                  <p>Take <hi>Damask Roſe</hi> leaves, <hi>Bay</hi> leaves, <hi>Lavinder</hi> tops, ſweet <hi>Mar<g ref="char:EOLhyphen"/>jerome</hi> tops, <hi>Ireos</hi> powder, <hi>Damask</hi> powder, and a little <hi>Musk</hi> firſt diſſolved in ſweet water, put the <hi>Roſe</hi> leaves and hearbs into a Ba<g ref="char:EOLhyphen"/>ſon, and ſprinkle a quarter of a pint of <hi>Roſe</hi>-water among them, and ſtirring them all together, cover the Baſon cloſe with a diſh, and let them ſtand ſo covered, all night, in the morning Diſtill them, ſo ſhall you have at once an excellent ſweet water, and a very fine ſweet Cake to lay among your fineſt linnen.</p>
+               </div>
+               <div type="recipe">
+                  <head>Oyle of Roſes.</head>
+                  <p>Take Sallet Oyle and put it into an earthen pot, then take <hi>Roſe</hi> leaves, clip off all the white, and bruiſe them a little, and put them into the Oyle, and then ſtop the top cloſe with paſt, and ſet it into a boyling pot of water, and let it boyle one hour, then let it ſtand alone night upon hot embers, the next day take the Oyle, and ſtraine it from the <hi>Roſe</hi> leaves, into a glaſſe, and put therein ſome freſh <hi>Roſe</hi> leaves, clipt as before, ſtop it, and ſet it in the Sun every day for a fortnight or three weeks.</p>
+               </div>
+               <div type="recipe">
+                  <head>Syrupe of Roſes.</head>
+                  <p>Take <hi>Damask Roſes,</hi> clip off the white of them, and take ſix ounces of them to every pint of faire water, firſt well boyled and ſcummed, let them ſtand ſo as aboveſaid, twelve hours, as you doe in the Syrupe of <hi>Violets,</hi> wringing out the <hi>Roſes</hi> and putting in new eight times, then wringing out the laſt put in onely the juice of four ounces of <hi>Roſes,</hi> ſo make it up as before, if you will put in
+<pb n="8" facs="tcp:118333:6"/>
+                     <hi>Rubarb,</hi> take to every two drams, ſlice it, ſtring it on a thred, hang it within the pot after the firſt ſhiſting, and let it infuſe within your <hi>Roſes:</hi> Some uſe to boyle the <hi>Rubarb</hi> in the Syrupe, but it is dan<g ref="char:EOLhyphen"/>gerous, the Syrupe prgeth <hi>Choller</hi> and <hi>Melancholly.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>A Conſerve of Roſes.</head>
+                  <p>Take red <hi>Roſe</hi> buds, clip of all the white, bruiſed, and withered from them, then weigh them out, and taking to every pound of <hi>Roſes</hi> three pound of <hi>Sugar,</hi> ſtamp the <hi>Roſes</hi> by themſelves very ſmall, putting a little juice of <hi>Lemmons</hi> or <hi>Roſe</hi> water to them as they wax dry, when you ſee the <hi>Roſes</hi> ſmall enough, put the <hi>Su<g ref="char:EOLhyphen"/>gar</hi> to them, and beat them together till they be well mingled, then put it up in Gally pots or glaſſes; in like manner are the Conſerverves of Flowers, of <hi>Violets, Cowſlips, Marigolds, Sage,</hi> and <hi>Sea boiſe</hi> made.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Preſerve Roſes or any other Flowers.</head>
+                  <p>Take one pound of <hi>Roſes,</hi> three pound of <hi>Sugar,</hi> one pint of <hi>Roſe</hi> water, or more, make your Syrupe firſt, and let it ſtand till it be cold, then take your <hi>Roſe</hi> leaves, having firſt clipt off all the white, put them into the cold Syrupe, then cover them, and ſet them on a ſoft fire, that they may but ſimper for two or three hours, then while they are hot put them into pots or glaſſes for your uſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>How to Preſerve Barbaries.</head>
+                  <p>Firſt take the faireſt <hi>Barbaries,</hi> and of them the greateſt bunch<g ref="char:EOLhyphen"/>es you can get, and with a needle take out the ſtones on the one ſide of them, then weigh out to every halfe pound of them one pound of <hi>Sugar,</hi> put them into a Preſerving pan, ſtrow the <hi>Sugar</hi> on them, and let them boyle a quarter of an hour ſoftly, then taking out the <hi>Barbaries</hi> let the Syrupe boyle a quarter of an hour more, then put in the <hi>Barbaries</hi> againe, and let them boyle a pretty while with the Syrupe, then take them from the Syrupe, and let them both ſtand till they be cold, and ſo put them up.</p>
+               </div>
+               <div type="recipe">
+                  <head>To keep Barbaries to garniſh your Meat.</head>
+                  <p>Take the worſt of them, and boyle them in faire water, and ſtraine the liquor from them, and while the liquor is hot put it into your <hi>Barbaries,</hi> being clean picked, and ſtop them up, and if they
+<pb n="9" facs="tcp:118333:6"/>
+                     <figure>
+                        <figDesc>rose with leaves, thorns, and a rose hip</figDesc>
+                        <head>A Roſe</head>
+                     </figure> mould much, waſh them throughly in the liquor, then boyle the liquor againe, and ſtrayne it, and let it coole, then put it to your <hi>Barbaries</hi> againe.</p>
+               </div>
+               <div type="recipe">
+                  <head>Conſerve of Barbaries.</head>
+                  <p>Take your <hi>Barbaries,</hi> pick them clean in faire branches, and waſh them clean, and dry them on a cloath, then take ſome other <hi>Barbaries,</hi> and boyle them in <hi>Clarret</hi> wine till they be very ſoft, then ſtraine them, and rub them ſo well through the ſtrainer, that you may know the ſubſtance of them, and boyle up this matter thus ſtrained out, till it be very ſweet, and ſomwhat thick, then ſet<g ref="char:EOLhyphen"/>ting it by till it be cold, and then put in your branches of <hi>Barba<g ref="char:EOLhyphen"/>ries</hi> into gally pots, or glaſſes, and fill it up with the cold Syrupe, and ſo ſhall you have both Syrupe, and alſo <hi>Barbaries,</hi> to uſe at your pleaſure.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:118333:7"/>
+               <head>Of Almonds.</head>
+               <div type="recipe">
+                  <head>To make Almond Biſcate.</head>
+                  <p>STeepe one pound of <hi>Almonds</hi> ſo long in cold water, till they will blanch, then put them in <hi>Roſe</hi>-water, and beat them in ſo much <hi>Roſe</hi>-water as will keep them from growing to an Oyle, and no more; take one pound of <hi>Sugar</hi> beaten very fine, and ſifted through a Searce, take the whites of ſix Eggs beat to a froth, as you uſe to doe for other Bisket, with a ſpoonfull of fine flower, ſet the <hi>Almonds</hi> and <hi>Sugar</hi> on a ſoft Charcoal fire, let them boyle together till they be very thick, and ſo let them ſtand till they be almoſt cold, then beat the Eggs and that together, put in a little <hi>Muske</hi> for the better taſt, if you pleaſe, then lay them upon pa<g ref="char:EOLhyphen"/>pers, in what proportion you will, and dry them in an Oven, with a flack fire.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make Almond Milke.</head>
+                  <p>Take a rib of <hi>Mutton</hi> or <hi>Veale,</hi> or rather a <hi>Chicken,</hi> boyle it in faire water, put thereto <hi>French Barley,</hi> a <hi>Fennill</hi> root, a <hi>Parſly</hi> root, <hi>Violet</hi> leaves, <hi>Strawberry</hi> leaves, and <hi>Cinquefoyle</hi> leaves, and boyle them all together, till the meat be over boyled, then ſtrayne out the liquor from the reſt, while they are boyling blanch a propor<g ref="char:EOLhyphen"/>tion of <hi>Almonds</hi> anſwerable to the liquor, beat them well in a clean ſtone Morter, and then grind them therein with <hi>Roſe</hi> water and <hi>Sugar,</hi> and when they are well ground put in all your liquor by little and little, and grind with them till they be all well Com<g ref="char:EOLhyphen"/>pounded, and then ſtrayne it into a faire glaſſe, and uſe it at your pleaſure.</p>
+               </div>
+               <div type="recipe">
+                  <head>An approved Medicine for the running of the Reines.</head>
+                  <p>Make <hi>Almond</hi> Milke of <hi>Plantine</hi> water, or elſe boyle <hi>Plantine</hi> in the liquor whereof you make your <hi>Almond</hi> Milk, take a quart of it, and put thereto three ſpoonfulls of <hi>Lentive farine,</hi> and three ſpoonfulls of <hi>Cinamon</hi> water, take of this at ſix in the morning, a good draught, two hours before dinner another, at four of the clock in the afternoon, a third, and two hours after ſupper a fourth; and twice or thrice between meals, eat a ſpoonfull of
+<pb n="11" facs="tcp:118333:7"/>Conſerve of Red <hi>Roſes</hi> at a time.</p>
+               </div>
+               <div type="recipe">
+                  <head>Oyle of Almonds.</head>
+                  <p>Take <hi>Almonds,</hi> blanch them, and put them into a pot, and ſet that pot in another pot of water that boyleth, and the ſteam of the ſeething pot will ariſe and enter into the por with the <hi>Almonds,</hi> and that will become Oyle when they are ſtamped and wringed through a cloath. Thus they make Oyle of the kernels of <hi>Filberts, Walnuts,</hi> &amp;c.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Barley Cream to procure ſleep, or Almond Milke.</head>
+                  <p>Take a good handfull of French <hi>Barley,</hi> waſh it cleane in warme water, and boyle it ina quart of fayre water to the halfe, then put out the water from the <hi>Barley,</hi> and put the <hi>Barley</hi> into a pottell of new clean water, with a <hi>Parſley,</hi> and a <hi>Fennell</hi> root, clean waſhed, and picked with <hi>Bourage, Buglos, Violet</hi> leaves, and <hi>Lettice,</hi> of each one handfull, boyle them with the <hi>Barley,</hi> till more then halfe be conſumed; then ſtrayne out the liquor, and take of blanched <hi>Almonds</hi> a handfull, of the ſeeds of <hi>Melons, Cucumbers, Citralls,</hi> and <hi>Gourds,</hi> husked, of each halfe a quarter of an ounce, beat theſe ſeeds, and the <hi>Almonds</hi> together, in a ſtone morter, with ſo much <hi>Sugar,</hi> and <hi>Roſe</hi>-water as is fit, and ſtrayne them through a cleane cloath into the liquor, and drink thereof at night going to bed, and in the night, if this doth not ſufficiently provoke ſleep, then make ſome more of the ſame liquor, and boyle in the ſame the heads, or a little of white <hi>Poppey.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>An Oyntment to kill the Worms in little Children.</head>
+                  <p>For ſtomach Wormes, annoynt the ſtomach with Oyle of <hi>Worm<g ref="char:EOLhyphen"/>wood,</hi> and the belly with Oyle of ſweet <hi>Almonds,</hi> for belly Wormes take all of <hi>Wormwood,</hi> Oyle of <hi>Savine,</hi> and the Powder of <hi>Aloe Cica<g ref="char:EOLhyphen"/>trina,</hi> finely beaten, annoynt the belly therewith, morning and e<g ref="char:EOLhyphen"/>vening. You muſt not uſe <hi>Savine</hi> in Medicines for Mayden Chil<g ref="char:EOLhyphen"/>dren, but in ſtead of Oyle of <hi>Savine,</hi> take as much of an Oxes Gall.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make the beſt white Puddings.</head>
+                  <p>Take a pound of <hi>Almonds,</hi> blanch them, ſtamp them, putting in a little Milk ſometime to them in the ſtamping, then put to them three handfulls of fine Flower, or as much grated bread firſt baked
+<pb n="12" facs="tcp:118333:8"/>in an Oven, ſix Eggs well beaten, a good deale of matrow cut in little pieces, ſeaſon them with <hi>Nutmeg</hi> and <hi>Sugar,</hi> three ſpoon<g ref="char:EOLhyphen"/>fulls of <hi>Roſe-water,</hi> and a little Salt; temper them all together, with as much Cream as will ſerve to wet or mingle them; and ſo fill them up.</p>
+               </div>
+               <div type="recipe">
+                  <head>An Almond Caudle.</head>
+                  <p>Blanch Jordan <hi>Almonds,</hi> beat them with a little ſmall Ale, and ſtrayne them out with as much more Ale as you minde to make your Caudle of, then boyle it as you doe an Egg Caudle, with a little Mace in it, and when it is off the fire ſweeten it with Sugar.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make fine white Leach of Almonds.</head>
+                  <p>Take halfe a pound of ſmall Almonds, beat them, and ſtrayne them with Roſe water, and ſweet Milk from the Cow, and put into it two or three pieces of large Mace, one graine of Musk, two ounces of Iſinglaſſe, and ſo boyle it in a Chafin-diſh of coales, a quarter of an hour, till it will ſtand, which you ſhall try thus, ſet a ſaucer in a little cold water, ſo that none come into it, and put a ſpoonfull of the Leach into it, and if you ſee that ſtand, take the other off the fire, then you may ſlice it in what faſhion you pleaſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make Almond Butter.</head>
+                  <p>Blanch one pound of <hi>Almonds,</hi> or more, or leſſe, as you pleaſe, lay them four hours in cold water, then ſtamp them with ſome Roſe water, as fine as you can, put them in a cloath, and preſſe out as much Milk as you can; then if you think they be not e<g ref="char:EOLhyphen"/>nough, beat them, and ſtraine them againe, till you get as much Milk of them, as you can; then ſet it on the fire, till they be rea<g ref="char:EOLhyphen"/>dy to boyle, putting in a good quantity of Salt and Roſe-water, to turne it after one boyling, being turned, take it off, caſt it abroad upon a linnen cloath, being holden between two, then with a ſpoon take off the Whey under the cloath, ſo long as any will drop or run, then take ſo much of the fineſt Sugar you can get, as will ſweeten it, and melt it in as much Roſe-water as will ſerve to diſſolve it, put thereto ſo much <hi>Saffron</hi> in fine powder, as will co<g ref="char:EOLhyphen"/>lour it, and ſo ſteeping the <hi>Saffron</hi> and <hi>Sugar</hi> in Roſe-water, ſea<g ref="char:EOLhyphen"/>ſon your Butter therewith, when you make it up.</p>
+                  <pb n="13" facs="tcp:118333:8"/>
+                  <p>
+                     <figure>
+                        <figDesc>olives and leaves on a branch</figDesc>
+                        <head>Oliues</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To make Almond Cakes.</head>
+                  <p>Take of Jordan Almonds, one pound, beat them as you doe for Almond milk, draw them through a ſtrainer, with the yolks of two or three Eggs, ſeaſon it well with Sugar, and make it into a thick Batter, with fine flower, as you doe for Bisket bread, then powre it on ſmall Trencher plates, and bake them in an Oven, or baking pan, and theſe are the beſt Almond Cakes.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make Paſte of Almonds.</head>
+                  <p>Take one pound of ſmall Almonds, blanch them out of hot water into cold, then dry them with a cloath, and beat them in a
+<pb n="14" facs="tcp:118333:9"/>ſtone Morter, till they come to Paſt, putting now and then a ſpoonfull of Roſe water to them, to keep them from Oyling, when they are beaten to fine paſt, take halfe a pound of <hi>Sugar</hi> finely beaten and ſearſed, put it to your paſt, and beat it till it will twiſt between your fingers and thumb, finely without knots, for then it is enough, then make thereof Pyes, Birds, Fruits, Flowers, or any pretty things, printed with Molds, and ſo gild them, and put them into your Stove, and uſe them at your pleaſure.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make a Marchpine.</head>
+                  <p>Take a pound of ſmall Almonds, blanch them, and beat them, as you doe your paſt of Almonds, then drive it into a ſheet of paſt, and ſpread it on a botome of wafers, according to the proportion, or bigneſſe you pleaſe, then ſet an edge round about it, as you doe, about a Tart, and pinch it if you will, then bake it in a pan, or O<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en, when it is enough, take it forth, and Ice it with an Ice made of Roſe-water and Sugar, as thick as batter, ſpread it on with a bruſh of briſtles, or with feathers, and put it in the Oven againe, and when you ſee the Ice riſe white and dry, take it forth, and ſtick long comfits in it, and ſet up a ſtaddard in the middeſt of it, ſo gild it, and ſerve it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make White-Broth with Almonds.</head>
+                  <p>Firſt look that the Meat be clean waſhed, and then ſet it on the fire, and when it boyleth, ſcum it clean, and put ſome ſalt into the pot, then take <hi>Roſemary, Time, Hyſop,</hi> and <hi>Marjerome,</hi> bind them together, and put them into the pot, then take a diſh of ſweet Butter, and put it alſo into the pot amongſt the meat, and take whole Maſe, and bind them in a cloath, and put them into the pot, with a quantity of Verjuice, and after that take ſuch a quan<g ref="char:EOLhyphen"/>tity of Almonds as ſhall ſerve turne, blanch them, and beat them in the Morter, and then ſtraine them with the broth when your Meat is in, and when theſe Almonds are ſtrained put them in a pot by themſelves, with ſome <hi>Sugar,</hi> a little <hi>Ginger,</hi> and alſo a little Roſe water, then ſtir it while it boyle, and after that take ſome ſli<g ref="char:EOLhyphen"/>ced <hi>Oringes</hi> without the kernels, and boyle them with the broth of the pot, upon a chafin-diſh of coales, with a little <hi>Sugar,</hi> and then have ſome Sipits ready in a platter, and ſerve the meat up<g ref="char:EOLhyphen"/>on them, and put not your Almonds in till it be ready to be ſerved.</p>
+                  <pb n="15" facs="tcp:118333:9"/>
+                  <p>
+                     <figure>
+                        <figDesc>part of strawberry plant with leaves, stems, flowers, and berries</figDesc>
+                        <head>Straw-berries</head>
+                     </figure>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Straw-Berries.</head>
+               <div type="recipe">
+                  <head>A Tart of Straw-Berries.</head>
+                  <p>PIck and waſh your <hi>Straw-Berries</hi> clean, and put them in the paſt one by another, as thick as you can, then take <hi>Sugar, Cinamon,</hi> and a little <hi>Ginger</hi> finely beaten, and well mingled together, caſt them upon the <hi>Straw Berries,</hi> and cover them with the lid finely cut into Lozenges, and ſo let them bake a quarter of an houre, then take it out, ſtrewing it with a little <hi>Cinamon,</hi> and <hi>Sugar,</hi> and ſo ſerve it.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:118333:10"/>
+               <head>Of Hartichoakes.</head>
+               <div type="recipe">
+                  <head>How to make a Hartichoake Pye.</head>
+                  <p>BOyle your <hi>Hartichoakes,</hi> take off all the leaves, pull out all the ſtrings, leaving only the bottoms, then ſeaſon them with <hi>Cina<g ref="char:EOLhyphen"/>mon,</hi> and <hi>Sugar,</hi> laying between every <hi>Hartichoake</hi> a good piece of Butter, and when you put your Pye into the Oven, ſtick the <hi>Har<g ref="char:EOLhyphen"/>tichoakes</hi> with ſlices of <hi>Dates,</hi> and put a quarter of a pint of White<g ref="char:EOLhyphen"/>wine into the Pye, and when you take it out of the Oven, doe the like againe, with ſome butter, and ſugar, and Roſe-water, melting the butter upon ſome coales, before you put it into the Pye.</p>
+               </div>
+               <div type="recipe">
+                  <head>To keep Hartichoakes for all the yeare.</head>
+                  <p>The fitteſt time is about <hi>Michaelmas,</hi> and then according to the proportion of <hi>Hartichoakes</hi> you will keep, ſeeth a quantity of wa<g ref="char:EOLhyphen"/>ter in a pot or pan, ſeaſoning it ſo with white ſalt that it may have a reaſonable taſt, then put a fit quantity of white ſalt into the wa<g ref="char:EOLhyphen"/>ter, and boyle them together, and ſcum them well; then put a good quantity of good <hi>Vineger</hi> to them, to make the liquor ſome<g ref="char:EOLhyphen"/>what ſharp, and boyle it again, then parboyle your <hi>Hartichoakes</hi> that you mind to keep, in another liquor, take them out of it, and let them coole, then ſet your firſt liquor againe on the fire to boyle, and ſcumming it throughly, let it coole againe; when it is throughly cold, put it up in ſome firkin, or large earthen pot, and put in your <hi>Hartichoakes</hi> to them handſomely, for bruiſing them; then cover them cloſe from the aire, and ſo keep them to ſpend at your pleaſure.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Preſerve Hartichoakes.</head>
+                  <p>Heat water ſcalding hot firſt, then put in your <hi>Hartichoakes,</hi> and ſcald them, and take away all the bottomes, and leaves about them, then take <hi>Roſe water</hi> and <hi>Sugar</hi> and boyle them alone a lit<g ref="char:EOLhyphen"/>tle while, then put the <hi>Hartichoakes</hi> therein, and let them boyle on a ſoft fire till they be tender enough, let them be covered all the time they boyle, then take them out and put them up for your uſe.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="17" facs="tcp:118333:10"/>
+                  <head>To make a maid diſh of Hartechoakes.</head>
+                  <p>Take your <hi>Hartichoakes</hi> and pare away all the top, even to the Meat, and boyle them in ſweet Broth till they be ſomewhat ten<g ref="char:EOLhyphen"/>der, then take them out, and put them in a diſh, and ſeeth them with <hi>Pepper, Cinamon,</hi> and <hi>Ginger,</hi> then put them in the diſh you mean to bake them in, and put in marrow to them good ſtore, and ſo let them bake, and when they be baked, put in a little <hi>Vine<g ref="char:EOLhyphen"/>ger</hi> and <hi>Butter,</hi> and ſtick three or four leaves of the <hi>Hartichoakes</hi> in the diſh when you ſerve them up, and ſcrape <hi>Sugar</hi> upon the diſh.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>OF MEDICINES.</head>
+               <div type="recipe">
+                  <head>An Excellent Medicine or Salve for an Ache coming of cold, eaſie to be made by any Countrey Houſewife.</head>
+                  <p>Take of good Neats-foot Oyle, Honey, and new Wax, like quantities, boyle them all well together, then put to them a quar<g ref="char:EOLhyphen"/>ter ſo much of <hi>Aqua vitae</hi> as was of each of the other, and then ſet<g ref="char:EOLhyphen"/>ting it on the fire, boyle it till it be well incorporated together, then ſpread it upon a piece of thin Leather, or thick linnen cloath, and ſo apply it to the place pained.</p>
+               </div>
+               <div type="recipe">
+                  <head>To eake the Ague out of any place.</head>
+                  <p>Take <hi>Vervine</hi> and <hi>Black Hemlocke,</hi> of each an handfull, boyle them in a pint of freſh <hi>Butter</hi> till they be ſoft, and begin to parch againe, then ſtraine the <hi>Butter</hi> from the hearbs, and put it into a gally pot, and two or three times annoynt the place grieved with a ſpoonfull or two thereof, <hi>probat.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>For the Ague in Children, or Women with Child.</head>
+                  <p>Take <hi>Venice Terpentine,</hi> ſpread it on the rough ſide of a piece of thin <hi>Leather,</hi> two fingers breadth, and ſtrew thereon the powder of <hi>Frankincenſe</hi> finely beaten, and upon it ſome <hi>Nutmeg</hi> grated, binde
+<pb n="18" facs="tcp:118333:11"/>this upon the wriſts an hour before the fit comes, and renew it ſtill till the fit be gone.</p>
+               </div>
+               <div type="recipe">
+                  <head>To ſtrengthen the Back weak or diſeaſed.</head>
+                  <p>Take the pith of an Oxes back, waſh it in Wine or Ale, and beating it very ſmall ſtraine it through a courſe cloath, and make a Caudle of it, with <hi>Muskadine,</hi> or ſtrong <hi>Ale,</hi> boyling therein a few <hi>Dates</hi> ſliced, and the ſtones taken out, and drink it firſt and laſt as warm as you can, walking well, but temperately after it. Toaſted dates often eaten are very good for the ſame.</p>
+               </div>
+               <div type="recipe">
+                  <head>For a Paine or Ache in the Back.</head>
+                  <p>Take <hi>Nepe, Archangel, Parſley,</hi> and <hi>Clarie,</hi> of each halfe a hand<g ref="char:EOLhyphen"/>full, waſh them cleane, and cut them ſmall, and then fry them with a little ſweet Butter, then take the yolks of three or four Eggs, beat them well together, and put them to the Hearbs, fry them all together, and eat them faſting every morning, with ſome <hi>Sugar;</hi> to take away the unſavorineſſe of the Hearbs, ſome uſe to take only <hi>Clary</hi> leaves, and <hi>Parſley</hi> waſhed, not cut, or <hi>Clary</hi> leaves alone, and powring the yolks of the Eggs upon them, ſo fry them, and eat them.</p>
+               </div>
+               <div type="recipe">
+                  <head>For a ſuddain Bleeding at the Noſe.</head>
+                  <p>Burne an Egg-ſhell in the fire till it be as black as a coale, then beate it to fine powder, and let the party ſnuffe it up into his Noſtrills.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Medicine for Burning or Scalding.</head>
+                  <p>Take <hi>Madenwort,</hi> ſtamp it, and ſeeth it in freſh Butter, and therewith anoynt the place grieved preſently.</p>
+               </div>
+               <div type="recipe">
+                  <head>For the Canker in Womens Breaſts.</head>
+                  <p>Take <hi>Gooſe</hi>-dung, and <hi>Celedonie,</hi> ſtamp them well together, and lay it plaiſter-wiſe to the ſoare, it will cleanſe the <hi>Canker,</hi> kill the wormes, and heale the ſoare.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="19" facs="tcp:118333:11"/>
+                  <head>For the Canker in the Mouth.</head>
+                  <p>Take the juice of <hi>Plantaine, Vineger,</hi> and <hi>Roſe</hi> water, of each a like quantity, mingle them together, and waſh the mouth often with them.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make a Tooth fall out of it ſelfe.</head>
+                  <p>Take wheat flower and mix it with the Milk of an Hearb called <hi>Spurge,</hi> make thereof a paſt, and fill the hole of the Tooth there<g ref="char:EOLhyphen"/>with, and leave it there, changing it every two houres, and the Tooth will fall out.</p>
+               </div>
+               <div type="recipe">
+                  <head>To take away the cauſe of the paine in the Teeth.</head>
+                  <p>Waſh the mouth two or three times together in the morning every moneth, with <hi>White-wine</hi> wherein the root of <hi>Spurge</hi> hath been ſodden, and you ſhall never have paine in your Teeth.</p>
+               </div>
+               <div type="recipe">
+                  <head>For a Conſumption.</head>
+                  <p>Take Aſh-keyes ſo ſoon as they look wither'd, ſet them into an Oven, the bread being drawne, in a pewter, or rather an earth<g ref="char:EOLhyphen"/>en diſh, and being ſo dryed pull off the out ſide, and reſerving the inner part, of the ſeed, or keyes, beat them to fine powder, and either mix it with good Engliſh honey, and ſo eat of it, firſt and laſt, morning and evening, a pretty deale of it at once, upon the point of a knife, or elſe drink of the powder in ſome poſſet Ale, or thin broth. Mares milk, or Aſſes milk, which is beſt, being drunk warm morning and evening, is the moſt ſoveraigne Medicine for it.</p>
+               </div>
+               <div type="recipe">
+                  <head>An excellent Medicine for the Cough of the Lungs.</head>
+                  <p>Take <hi>Fennell</hi> and <hi>Angelica</hi> of each one handfull, the leaves in Summer, roots in Winter, ſliced figgs twelve, but if the body be bound, twenty at leaſt; green Licorice if you can, two or three good ſticks ſcraped and ſliced, Anniſeed cleaved and bruiſed, two good ſpoonfulls, two or three Parſley roots ſcraped, and the pith taken out, and twenty leaves of Foale-foot, boyle all theſe in three pints of <hi>Hyſop</hi> water, to a pint and halfe, then ſtraine it out into a glaſſe, putting to it as much white <hi>Sugar</hi>-candy as will make it ſweet, drink hereof, being warmed, five ſpoonfulls at a time, firſt in the morning, and laſt in the evening, taking heed that you eat nor drink any thing two howres before nor after.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:118333:12"/>
+               <head>Of Violets.</head>
+               <div type="application">
+                  <head>The uſe of Oyle of Violets.</head>
+                  <p>OYle of <hi>Violets, Cammomile, Lillies, Elder flowers, Cowſlips, Rue, Wormwood,</hi> and <hi>Mint,</hi> are made after the ſame ſort; Oyle of <hi>Violets,</hi> if it be ſubbed about the Tempels of the head, doth re<g ref="char:EOLhyphen"/>move the extream heat, aſſwageth the head Ache, provoketh ſleep, and moiſtneth the braine; it is good againſt melancholly, dullneſſe, and heavineſſe of the ſpirits, and againſt ſwellings, and ſoares that be over-hot.</p>
+               </div>
+               <div type="recipe">
+                  <head>The Syrupe of Violets.</head>
+                  <p>Take faire water, boyle it, ſeum it, and to every ounce of it ſo boyled and ſcommed, take ſix ounces of the blew of <hi>Violers,</hi> only ſhift them as before, nine times, and the laſt time take nine oun<g ref="char:EOLhyphen"/>ces of <hi>Violets,</hi> let them ſtand between times of ſhifting, 12 houres, keeping the liquor ſtill on hot embers, that it may be milk warm, and no warmer; after the firſt ſhifting you muſt ſtamp and ſtraine your laſt nine ounces of <hi>Violets,</hi> and put in only the juice of them, then take to every pint of this liquor thus prepared, one pound of <hi>Sugar</hi> finely beaten, boyle it, and keep it with ſtirring till the <hi>Su<g ref="char:EOLhyphen"/>gar</hi> be all melted, which if you can, let be done before it boyle, and then boyle it up with a quick fire. This doth coole and open in a burning <hi>Ague,</hi> being diſſolved in <hi>Almond</hi> milk, and taken; e<g ref="char:EOLhyphen"/>ſpecially it is good for any Inflamation in Children. The Conſerves are of the ſame effect.</p>
+               </div>
+               <div type="application">
+                  <head>The uſe of Conſerve of Violets and Cowſlips.</head>
+                  <p>That of <hi>Cowſlips</hi> doth marvelouſly ſtrengthen the Braine, pre<g ref="char:EOLhyphen"/>ſerveth againſt Madneſſe, againſt the decay of memory, ſtoppeth Head-ache, and moſt infirmities thereof; for <hi>Violets</hi> it hath the ſame uſe the Syrupe hath.</p>
+                  <pb n="21" facs="tcp:118333:12"/>
+                  <p>
+                     <figure>
+                        <figDesc>sprig of violet flowers</figDesc>
+                        <head>Violets</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To make Paſte of Violets, or any kind of Flowers.</head>
+                  <p>Take your Flowers, pick them, and ſtamp them in an <hi>Alablaſter</hi> morter, then ſteep them two howres in a ſauſer of <hi>Roſe</hi>-water, af<g ref="char:EOLhyphen"/>ter ſtraine it, and ſteep a little <hi>Gum Dragon</hi> in the ſame water, then beat it to paſt, print it in your Moulds, and it will be of the very colour and taſt of the Flowers, then gild them, and ſo you may have every Flower in his owne colour, and taſt better for the mouth, then any printed colour.</p>
+               </div>
+               <div type="recipe">
+                  <head>Powder of Violets.</head>
+                  <p>Take ſweet <hi>Ireos</hi> roots one ounce, red <hi>Roſes</hi> two ounces, <hi>Storax</hi> one ounce and a halfe, <hi>Cloves</hi> two drams, <hi>Marjerome</hi> one dram, <hi>La<g ref="char:EOLhyphen"/>vinder</hi> flowers one dram and a halfe, make theſe into powder;
+<pb n="22" facs="tcp:118333:13"/>then take eight graines of fine <hi>Muske</hi> powdered, alſo put to it two ounces of <hi>Roſe</hi> water, ſtir them together, and put all the reſt to them, and ſtir them halfe an hour, till the water be dryed, then ſet it by one day, and dry it by the fire halfe an houre, and when it is dry put it up into bagges.</p>
+               </div>
+               <div type="recipe">
+                  <head>A good Plaister for the Strangury.</head>
+                  <p>Take <hi>Violets,</hi> and <hi>Hollyhokes,</hi> and <hi>Mercury,</hi> the leaves of theſe Hearbs, or the ſeeds of them, alſo the rinde of the <hi>Elderne</hi> tree, and <hi>Leydwort,</hi> of each of theſe a handfull, and beat them ſmall, and ſeeth them in water, till halfe be conſumed, and put thereto a little oyle Olive, and make thereof a plaiſter, and lay it to the ſoare and reines; alſo in the ſummer thou muſt make him a drink on this manner, take <hi>Saxifrage,</hi> and the leaves of <hi>Elderne,</hi> five leav'd graſſe, and ſeath them in a pottell of ſtaile Ale, till the halfe be waſted, then ſtraine it, and keep it clean, and let the ſick drink thereof firſt and laſt, and if you lack theſe hearbs becauſe of winter, then take the roots of five-leav'd graſſe, and dry them, and make thereof a powder, then take Oyſter-ſhells, and burne them, and make powder alſo of them, and mingling them toge<g ref="char:EOLhyphen"/>ther, let the ſick uſe thereof in his pottage, and drink, and it will help him.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Medicine for ſore blood-ſhotten, and Rhue<g ref="char:EOLhyphen"/>matick eyes.</head>
+                  <p>Take ground <hi>Ivy, Daiſes,</hi> and <hi>Celedony,</hi> of each a like quantity, ſtamp and ſtraine out the juice out of them, and put to it a little brown <hi>Sugar</hi> Candy diſſolved in white Roſe-water, and drop two or three drops of this liquor at one time into the grieved eye, with a feather, lying upon the back when you doe it an hour after, this is a moſt approved Medicine to take away all <hi>Inflamations, Spots, Webbs, Itches, Smartings,</hi> or any griefe whatſoever in the eyes.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Gliſter to open and looſen the Body being bound, which may ſafely be admini<g ref="char:EOLhyphen"/>ſtred to any man or woman.</head>
+                  <p>Take <hi>Mallowes</hi> and <hi>Mercury</hi> unwaſhed, of each two handfulls, halfe a handfull of <hi>Barley</hi> clean rubbed and waſhed, boyle them in
+<pb n="23" facs="tcp:118333:13"/>a pottell of running water to a quart, then ſtrayne out the water and put it in a Skillet, and put to it three ſpoonfulls of Sallet Oyle, and two ſpoonfulls of Honey, and a little ſalt; then make it luke warm, and ſo miniſter it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To cleanſe the head, and take the Ache away.</head>
+                  <p>Chew the root of <hi>Pellitory of Spaine,</hi> often in the mouth.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Medicine that hath healed old Sores upon the leggs, that have run ſo long that the bones have been ſeen.</head>
+                  <p>Take a quantity of good ſweet <hi>Cream,</hi> and as much <hi>Brimſtone</hi> beaten in fine powder, as will make it thick like Paſte, then take ſo much <hi>Butter</hi> as will make it into the form of Oyntment, and herewith annoynt the place grieved, twice a day.</p>
+               </div>
+               <div type="recipe">
+                  <head>An Oyntment for a Rupture.</head>
+                  <p>Take of <hi>Sanicle</hi> two handfulls, of <hi>Adders</hi> tongue, <hi>Doves</hi> foot, and <hi>Shephards purſe,</hi> of each as much, of <hi>Limaria</hi> one handfull, chop them ſomewhat ſmall, and boyle them in <hi>Deers</hi> ſeuet, untill the Hearbs doe crumble, and wax dry.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Barley Water to purge the Lungs and lights of all Diſeaſes.</head>
+                  <p>Take halfe a pound of faire <hi>Barley,</hi> a gallon of running water, <hi>Licorice</hi> halfe an ounce, <hi>Fennell</hi> ſeed, <hi>Violet</hi> leaves, <hi>Parſley</hi> ſeed, of each one quarter of an ounce, red <hi>Roſes</hi> as much, <hi>Hyſop</hi> and <hi>Sage</hi> dryed, a good quantity of either, <hi>Harts tongue</hi> twelve leaves, a quarter of a pound of <hi>Figges,</hi> and as many <hi>Raiſons,</hi> ſtill the <hi>Figges</hi> and <hi>Raiſons,</hi> put them all into a new earthen pot, with the water cold, let them ſeeth well, and then ſtrain the cleareſt from it, drink of this a good quantity, morning and afternoone, obſerving good diet upon it, it taketh away all <hi>Agues</hi> that come of heat, and all ill heat; it purgeth the <hi>Lights, Spleene, Kidneyes,</hi> and <hi>Bladder.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To Cure the Diſeaſes of the Mother.</head>
+                  <p>Take ſix or ſeaven drops of the Spirit of <hi>Caſtoreum,</hi> in the begin<g ref="char:EOLhyphen"/>ning
+<pb n="24" facs="tcp:118333:14"/>of the fit, in two or three ſpoonfulls of poſſet <hi>Ale,</hi> applying a Plaiſter of <hi>Gavanum</hi> to the Navill.</p>
+               </div>
+               <div type="recipe">
+                  <head>To kill Warts: an approved Medicine.</head>
+                  <p>Take a <hi>Radiſh</hi> root, ſcrape off the out-ſide of it, and rub it all over with ſalt, then ſet it thus dreſſed upright in a ſaucer, or ſome other ſmall diſh, that you may ſave the liquor that runneth from it, and therewith annoynt your Warts three or four times in a day, the oftner the better, and in five or ſix dayes they will conſume away, <hi>Saepe probatum.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>For the Piles.</head>
+                  <p>Set a Chaſin-diſh of coales under a cloſe ſtoole chaire, or in a cloſe-ſtoole caſe, and ſtrew <hi>Amber</hi> beaten in fine powder, upon the coales, and ſit downe over it, that the ſmoak may aſcend up into the place grieved.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Medicine for the Piles.</head>
+                  <p>Take a little <hi>Orpine, Hackdagger,</hi> and <hi>Elecampane,</hi> ſtamp them all together with <hi>Boares</hi> greaſe, into the form of an Oyntment, and ſay them to the place grieved.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Diet for the Patient that hath <g ref="char:V">Ʋ</g>lcers or Wounds that will hardly be Cured with Oyntments, Salves, or Plaiſters.</head>
+                  <p>Take one pound of <hi>Guaicum,</hi> boyle it in three pottels of <hi>Ale,</hi> with a ſoft fire, to the conſuming of two parts, but if it be where you may have wild Whay, or cheeſe Whay, they are better. Let the Patient drink of this morning and evening, halfe a pint at a time, and let him ſweat after it two hours. His drink at his Meals muſt be thus uſed, put into the ſame veſſel where the former was made, to the <hi>Guaicum</hi> that is left, three pottels of <hi>Ale,</hi> and not <hi>Whey,</hi> let it boyle to the one halfe, let him drink thereof at all times, and at his meale, which muſt be but one in a day, and that ſo little, that he may riſe hungry. Thus he muſt doe for five dayes together, but he muſt firſt be purged.</p>
+                  <pb n="25" facs="tcp:118333:14"/>
+                  <p>
+                     <figure>
+                        <figDesc>sprig of cowslip flowers and buds</figDesc>
+                        <head>Cowſlips</head>
+                     </figure>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Cowſlips.</head>
+               <div type="recipe">
+                  <head>Oyle of Cowſlips.</head>
+                  <p>OYle of <hi>Cowſlips,</hi> if the Nape of the Neck be annointed with it, is good for the <hi>Palſie,</hi> it comforteth the ſinews, the heart and the head.</p>
+               </div>
+               <div type="application">
+                  <head>The uſe of the Oyle of Wormwood, and Oyle of Mint.</head>
+                  <p>Oyle of <hi>Wormwood</hi> is good for ſtraines and bruiſes, and to com<g ref="char:EOLhyphen"/>fort the ſtomach; it is made of the green Hearb, as are the Oyle
+<pb n="26" facs="tcp:118333:15"/>of <hi>Cammomile, Rue,</hi> and <hi>Mint,</hi> are made.</p>
+                  <p>Oyle of <hi>Mint</hi> comforteth the ſtomack, overlayed or weakned with Caſting, it doth drive back, or dry up Weomend breaſts, and doth keep them from being ſoare, being therewith annointed.</p>
+               </div>
+               <div type="recipe">
+                  <head>Syrupe of Cowſlips.</head>
+                  <p>Inſtead of running water you muſt take diſtilled water of <hi>Cow<g ref="char:EOLhyphen"/>ſlips,</hi> put thereto your <hi>Cowſlip</hi> flowers clean picked, and the green knobs in the bottome cut off, and therewith boyle up a Sy<g ref="char:EOLhyphen"/>rupe, as in the Syrupe of <hi>Roſes</hi> is ſhewed; it is good againſt the <hi>Frenſie,</hi> comforting and ſtaying the head in all hot <hi>Agues, &amp;c.</hi> It is good againſt the <hi>Palſie,</hi> and procures a ſick Patient to ſleep; it muſt be taken in <hi>Almond</hi>-milk, or ſome other warm thing.</p>
+               </div>
+               <div type="recipe">
+                  <head>To keep Cowſlips for Salates.</head>
+                  <p>Take a quart of <hi>White wine</hi> Vineger, and halfe a quarter of a pound of fine beaten <hi>Sugar,</hi> and mix them together, then take your <hi>Cowſlips,</hi> pull them out of the podds, and cut off the green knobs at the lower end, put them into the pot or glaſſe wherein you mind to keep them, and well ſhaking the <hi>Vineger</hi> and <hi>Sugar</hi> together in the glaſſe wherein they were before, powre it upon the <hi>Cowſlips,</hi> and ſo ſtirring them morning and evening to make them ſettle for three weeks, keep them for your uſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Conſerve Cowſlips.</head>
+                  <p>Gather your Flowers in the midſt of the day when all the dew is off, then cut off all the white leaving none but the yellow bloſ<g ref="char:EOLhyphen"/>ſome ſo picked and cut, before they wither, weigh out ten oun<g ref="char:EOLhyphen"/>ces, taking to every ten ounces of them, or greater proportion, if you pleaſe, eight ounces of the beſt refined <hi>Sugar,</hi> in fine powder, put the <hi>Sugar</hi> into a pan, and candy it, with as little water as you can, then taking it off the fire, put in your Flowers by little and little, never ceaſing to ſtir them till they be dry, and enough; then put them into glaſſes, or gally pots, and keep them dry for your uſe. Theſe are rather Candied then Conſerved <hi>Cowſlips.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To Preſerve all kinde of Flowers in the Spa<g ref="char:EOLhyphen"/>niſh Candy in Wedges.</head>
+                  <p>Take <hi>Violets, Cowſlips,</hi> or any other kinde of Flowers, pick
+<pb n="27" facs="tcp:118333:15"/>them, and temper them with the pap of two roaſted <hi>Apples,</hi> and a drop or two of <hi>Verjuice,</hi> and a graine of <hi>Muske,</hi> then take halfe a pound of fine hard <hi>Sugar,</hi> boyle it to the height of <hi>Manus Chriſti,</hi> then mix them together, and pour it on a wet Pye plate, then cut it in Wedges before it be through cold, gild it, and ſo you may box it, and keep it all the year. It is a fine ſort of Banquetting ſteffe, and newly uſed, your <hi>Manus Chriſti</hi> muſt boyle a good while, and be kept with good ſtirring.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Medicine to break and heale ſore breasts of VVomen, uſed by Mid-wives, and other skillfull VVomen in <hi>London.</hi>
+                  </head>
+                  <p>Boyle <hi>Oatmeale,</hi> of the ſmalleſt you can get, and red <hi>Sage</hi> toge<g ref="char:EOLhyphen"/>ther, in running or Conduict water, till it be thick enough to make a Plaiſter, and then put into it a fit proportion of <hi>Honey,</hi> and let it boyle a little together, take it off the fire, and while it is yet boy<g ref="char:EOLhyphen"/>ling hot, put thereto ſo much of the beſt <hi>Venice Terpentine</hi> as will make it thick enough to ſpread, then ſpreading it on ſome ſoft leather, of a good thick linnen cloath, apply it to the breſt, and it will firſt break the ſoare, and after that being continued, will alſo heale it up.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Medicine that hath recovered ſome from the Dropſie, whome the Phyſitian hath given over.</head>
+                  <p>Take green <hi>Broome</hi> and burne it in ſome clean place, that you may ſave the aſhes of it, take ſome ten or twelve ſpoonfulls of the ſame Aſhes, and boyle them in a pint of <hi>White</hi>-wine till the vertue of it be in the wine, then coole it, and drayne the wine from the dreggs, and make three draughts of the Wine, and drink one faſt<g ref="char:EOLhyphen"/>ing in the morning, another at three in the afternoone, another laſt at night neer going to bed. Continue this, and by Gods grace it will cure you.</p>
+               </div>
+               <div type="recipe">
+                  <head>An eſpeciall Medicine for all manner of Poyſon.</head>
+                  <p>Take <hi>Hemp ſeed,</hi> dry it very well, and get off the husks, and beat the <hi>Hemp-ſeed</hi> into fine powder, take <hi>Mintes</hi> alſo, dry them,
+<pb n="28" facs="tcp:118333:16"/>and make them into powder, boyle a ſpoonfull of either of theſe in halfe a pint of <hi>Goats</hi> milk, a pretty while, then put the milk in<g ref="char:EOLhyphen"/>to a cup to coole, and put into it a ſpoonfull of <hi>Treacle,</hi> and ſtir them together till it be coole enough, then drink it in the morn<g ref="char:EOLhyphen"/>ing faſting, and eat nothing till noon, or at leaſt two hours; doe the like at night, and uſe it ſo three dayes, and it will kill and o<g ref="char:EOLhyphen"/>vercome any poyſon.</p>
+               </div>
+               <div type="recipe">
+                  <head>Doctor <hi>Lewin's</hi> 
+                     <g ref="char:V">Ʋ</g>nguentum Roſatum, good for the heat in the Back.</head>
+                  <p>Take a certain quantity of <hi>Barrowes</hi> greaſe, Oyle of ſweet <hi>Al<g ref="char:EOLhyphen"/>monds,</hi> and <hi>Roſe-water,</hi> either red or damask, of each a like quan<g ref="char:EOLhyphen"/>tity, but of neither ſo much as of the <hi>Hoggs</hi> greaſe, beat them to<g ref="char:EOLhyphen"/>gether to an Oyntment, put it in ſome gally pot, and when you would uſe it, heat it, and therewith annoynt the Back and Reins.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Beanes.</head>
+               <div type="recipe">
+                  <head>To defend Humours.</head>
+                  <p>TAke <hi>Beanes,</hi> the rinde or the upper skin being pul'd off, bruiſe them, and mingle them with the white of an Egg, and make it ſtick to the temples, it keepeth back humours flowing to the Eyes.</p>
+               </div>
+               <div type="recipe">
+                  <head>To diſſolve the Stone, which is one of the Phy<g ref="char:EOLhyphen"/>ſitians greateſt ſecrets.</head>
+                  <p>Take a peck of green <hi>Beane</hi> cods, well cleaved, and without dew or rain, and two good handfulls of <hi>Saxifrage,</hi> lay the ſame in<g ref="char:EOLhyphen"/>to a Still, one row of <hi>Bean</hi> cods, another of <hi>Saxifrage,</hi> and ſo Diſtill another quart of water after this manner, and then Diſtill another proportion of <hi>Bean</hi> codds alone, and uſe to drink oft theſe two Waters; if the Patient be moſt troubled with heat of the Reins, then it is good to uſe the <hi>Bean</hi> codd water ſtilled alone more of<g ref="char:EOLhyphen"/>ten, and the other upon comming downe of the ſharp gravell or ſtone.</p>
+               </div>
+               <div type="recipe">
+                  <head>
+                     <g ref="char:V">Ʋ</g>nguentum Sanativum.</head>
+                  <p>Take of <hi>Terpentine</hi> one pound, <hi>Wax</hi> ſix ounces, Oyle of <hi>Commo<g ref="char:EOLhyphen"/>mile</hi>
+                     <pb n="29" facs="tcp:118333:16"/>
+                     <figure>
+                        <figDesc>part of a bean plant with two pods (or one pod split open?) and a blossom</figDesc>
+                        <head>Beanes</head>
+                     </figure> halfe a pint, put all theſe together in a pan, and put to them a handfull of <hi>Cammomile,</hi> bruiſed, or cut very ſmall, boyle them upon a ſoft fire till they be well melted, and no more; then take it from the fire, and ſtrayne it into a clean pan, and ſo let it coole all night, and in the morning put it up for your uſe. This Oynt<g ref="char:EOLhyphen"/>ment is good for any cut, wound, or breaking of the fleſh, it eat<g ref="char:EOLhyphen"/>eth away dead fleſh, and ranklings, and doth heale againe quickly.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Serecloath for all Aches.</head>
+                  <p>Take <hi>Roſſen</hi> one pound, <hi>Perroſſen</hi> a quarter of a pound, as <hi>Ma<g ref="char:EOLhyphen"/>ſtick</hi> and <hi>Deer ſewet</hi> the like, <hi>Turpentine</hi> two ounces, <hi>Cloves</hi> bruiſed, one ounce, <hi>Mace</hi> bruiſed, two ounces, <hi>Saffron</hi> two drams, boyle all theſe together in Oyle of <hi>Cammomile,</hi> and keep it for your uſe.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="30" facs="tcp:118333:17"/>
+                  <head>An Oyntment to be made at any time of the yeare, and is approved good, and hath helped old Paines, Griefes, and Aches.</head>
+                  <p>Take <hi>Steers Gall, Sallet Oyle,</hi> and <hi>Aqua vitae,</hi> of each five ſpoon<g ref="char:EOLhyphen"/>fulls, boyle them together a little, and therewith annoint the place pained, by the fire, and lay a warm cloath on it.</p>
+               </div>
+               <div type="recipe">
+                  <head>An Oyntment for the Sciatica.</head>
+                  <p>Roaſte a handfull or two of <hi>Onions,</hi> and take <hi>Neats-foot</hi> Oyle, and <hi>Aqua vitae,</hi> of each a pint, ſtamp, or rather boyle all theſe to<g ref="char:EOLhyphen"/>gether to an Oyle, or Oyntment, and ſtraine it into a gally pot, and therewith annoynt the place grieved as hot as you can endure it, morning and evening.</p>
+               </div>
+               <div type="recipe">
+                  <head>A VVater to drive away any Infection.</head>
+                  <p>Take <hi>Draggons, Angelica, Rue, Wormwood,</hi> of each a handfull, chop them pretty ſmall, and ſteep them in a quart of <hi>White-wine,</hi> twenty four hours, then diſtill them in a Still, and reſerve the wa<g ref="char:EOLhyphen"/>ter in a glaſſe cloſe ſtopped; give to the ſick Patient ſix or ſeaven ſpoonfuls thereof at a time faſting, and let him faſt an houre and an halfe after, and keep himſelfe very warme in his bed, or o<g ref="char:EOLhyphen"/>therwiſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>An excellent Conſervative for the ſtomach, helping digeſtion, warming the braine, and drying the Rheumes.</head>
+                  <p>Take two ounces of good old Conſerve of red <hi>Roſes,</hi> of choſen <hi>Methridate</hi> two drams, mingle them well together, and eat there<g ref="char:EOLhyphen"/>of to bed ward, the quantity of a hazell nut; this doth expell all windneſſe of the ſtomach, expelleth raw humours and venomous vapours, cauſeth good digeſtion, dryeth the Rheume, ſtrength<g ref="char:EOLhyphen"/>neth the memory and ſight.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="31" facs="tcp:118333:17"/>
+                  <head>An Oyntment for any wound or ſore.</head>
+                  <p>Take two pound of <hi>Sheeps</hi> ſuet, or rather <hi>Deers</hi> ſuet, a pint of <hi>Candy Oyle,</hi> a quarter of a pound of the neweſt and beſt <hi>Bees-wax,</hi> melt them together, ſtirring them well, and put to them one ounce of the Oyle of <hi>Spike,</hi> and halfe an ounce of the <hi>Goldſmiths Boras,</hi> then heating them againe, and ſtirring them all together, put it up in a gally pot, and keep it cloſe ſtopped till you have cauſe to uſe it; this is an approved Oyntment to cure any wounds or ſores new or old.</p>
+               </div>
+               <div type="recipe">
+                  <head>An excellent Oyntment for any Bruiſe or Ache.</head>
+                  <p>Take two pound of <hi>May Butter</hi> purified, powre it out from the dregs, and put to it of <hi>Broome</hi> flowers and <hi>Elder</hi> flowers, of each a good handfull, ſo clean picked that you uſe nothing but the leaves, mix them all together in a ſtone pot, and boyle them ſea<g ref="char:EOLhyphen"/>ven or eight howres in a kettell of water, being covered with a board, and kept downe with weights, keeping the kettell alwayes full of water, with the help of another kettell of boyling water ready to fill up the firſt as it waſteth, and when it waxeth ſome<g ref="char:EOLhyphen"/>what coole, but not cold, ſtraine the Oyntment from the Hearbs, into a gally pot, and keep it for your uſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Plaiſter for a Bile or Puſh.</head>
+                  <p>Take a yolk of an Egg, and halfe a ſpoonfull of Engliſh <hi>Honey,</hi> mix them together with fine wheat flower, and making it to a Plaiſter, apply it warme to the place grieved.</p>
+               </div>
+               <div type="recipe">
+                  <head>An approved good drink for the Peſtilence.</head>
+                  <p>Take ſix ſpoonfuls of <hi>Draggon</hi>-water, two good ſpoonfulls of <hi>Wine-Vineger,</hi> two penny weights of Engliſh <hi>Saffron,</hi> and as much Treacle of <hi>Gene,</hi> as a little <hi>Walnut,</hi> diſſolve all theſe together upon the fire, and let the Parient drink it blood warm, within twenty hours or ſooner that he is ſick, and let him neither eat nor drink ſix howres after, but lye ſo warme in his bed, that he may ſweat, this expelleth the Diſeaſe from the heart, and if he be diſpoſed to a ſore, it will ſtreight wayes appeare, which you ſhall draw out with a Plaiſter of <hi>Flos <g ref="char:V">Ʋ</g>nguentorum.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <pb n="32" facs="tcp:118333:18"/>
+                  <head>For the Rheume in the gums or teeth.</head>
+                  <p>Boyle <hi>Roſemary</hi> in faire water, with ſome ten or twelve <hi>Cloves,</hi> ſhut, and when it is boyled take as much <hi>Clarret</hi> wine as there is water left, and mingle with it, and make it boyle but a little a<g ref="char:EOLhyphen"/>gaine, then ſtrayne it into ſome glaſſe, and waſh the mouth there with morning and evening; this will take away the Rheume in ſhort time; and if you boyle a little <hi>Maſtick</hi> therewith, it is the better.</p>
+               </div>
+               <div type="recipe">
+                  <head>For the Emroids.</head>
+                  <p>Take <hi>Egremony</hi> and bruiſe it ſmall, and then fry it with <hi>Sheep ſuet,</hi> and <hi>Heney,</hi> of each a like quantity, and lay it as hot as you can ſuffer it to the Fundament, and it will heale very faire and well.</p>
+               </div>
+               <div type="recipe">
+                  <head>An approved medicine for the Dropſey.</head>
+                  <p>Take the Hearb called <hi>Bitter ſweet,</hi> it grows in waters, and bears a purple flower, ſlice the ſtalks, and boyle a pretty deale of them in <hi>White-wine,</hi> drink thereof firſt and laſt, morning and evening, and it will cure the <hi>Dropſey.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>A Powder for VVounds.</head>
+                  <p>Take <hi>Orpiment,</hi> and <hi>Verdigreeſe,</hi> of each an ounce, of <hi>Vitriall</hi> burned till it be red, two ounces, beat each of them by it ſelfe in a braſen Morter, as ſmall as flower, then mingle them all toge<g ref="char:EOLhyphen"/>ther, that they appear all as one, and keep it in bagges of leather, well bound, for it will laſt ſeaven years with the ſame vertue, and it is called <hi>Powder peerleſſe,</hi> it hath no peer for working in <hi>Chyrur<g ref="char:EOLhyphen"/>gery,</hi> for put of this powder in a wound where is dead fleſh, and lay ſcrap't lint about it, and a Plainer of Diskloſions next upon it, and it will heale it.</p>
+               </div>
+               <div type="recipe">
+                  <head>An approved Medicine for the Green ſickneſſe.</head>
+                  <p>Take a quart of <hi>Clarret</hi> wine, one pound of <hi>Currants,</hi> and a handfull of young <hi>Roſemary</hi> crops, and halfe an ounce of <hi>Mace,</hi> ſeeth theſe to a pint, and let the Patient drink thereof three ſpoonfulls at a time, morning and evening, and eat ſome of the <hi>Currants</hi> alſo after.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="33" facs="tcp:118333:18"/>
+                  <head>A Medicine for a Pleuriſie, Stitch, or Winde, offending in any part of the Body.</head>
+                  <p>Gather the young ſhutes of <hi>Oake,</hi> after the fall of a <hi>Wood,</hi> and picking out the tendereſt and ſofteſt of them, eſpecially thoſe which look redeſt, bind them up together in a wet paper, and roſte them in hot embers, as you doe a <hi>Warden,</hi> whereby they will dry to powder, of which powder let the Patient take a ſpoonfull in a little Poſſet <hi>Ale,</hi> or <hi>Beer,</hi> warmed, in the morning, faſting after it two hours, or more, if he be able, doing the like about three after noon, and two hours after ſupper, four or five dayes toge<g ref="char:EOLhyphen"/>ther, which thus done in the beginning of the Diſeaſe, is by often experiments found to cure ſuch windy paines in the ſide, ſto<g ref="char:EOLhyphen"/>mach, or other parts of the body; you may dry them alſo in a diſh, in an Oven after the bread is drawn; you ſhall doe well to gather enough of them in the Spring, and make good ſtore of the powder then, to keep for all the year following.</p>
+               </div>
+               <div type="recipe">
+                  <head>An approved Medicine for the Gout in the feet.</head>
+                  <p>Take an <hi>Oxes</hi> paunch new killed, and warm out of the belly, a<g ref="char:EOLhyphen"/>bout the latter end of <hi>May,</hi> or beginning of <hi>June,</hi> make two holes therein, and put in your feet, and lay ſtore of warm aloaths about it, to keep it warm ſo long as can be. Uſe this three or four dayes together, for three weeks or a moneth, whether you have the fit or paine of the <hi>Gout,</hi> at that time or no, ſo you have had it at any time before. This hath cured divers perſons, that they have ne<g ref="char:EOLhyphen"/>ver been troubled with it againe.</p>
+               </div>
+               <div type="recipe">
+                  <head>For one that cannot make water.</head>
+                  <p>Take the white ſtrings of <hi>Filmy</hi> roots, of <hi>Primroſes,</hi> waſh them very clean, and boyle of them halfe a handfull, in a pint of <hi>Beer</hi> or <hi>White-wine,</hi> till halfe be conſumed, then ſtraine it through a clean cloath, and drink thereof a quarter of a pint, ſomewhat warme, morning and evening, for three dayes, it will purge away all viſ<g ref="char:EOLhyphen"/>cous or obſtruction: ſtopping the paſſage of the water, <hi>probatum.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To kill the Ring-worme, and heat thereof.</head>
+                  <p>Take a quart of <hi>White wine</hi> vineger, boyle therein of <hi>Woodbine</hi> leaves, <hi>Sage,</hi> and <hi>Plantaine</hi> of each one handfull, of white <hi>Coperas,</hi> one pound, of <hi>Allum</hi> as much as an Egge; when it is boyled to
+<pb n="34" facs="tcp:118333:19"/>halfe a pint, ſtraine out the liquor, and therewith waſh the ſoare as hard as you can ſuffer it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make a Water for all VVounds and Cankers.</head>
+                  <p>Take a handfull of red <hi>Sage</hi> leaves, a handfull of <hi>Selandine,</hi> as much <hi>Woodbine</hi> leaves, then take a gallon of Conduict water, and put the hearbs in it, and let them boyle to a pottell, and then ſtrayning the Hearbs through a ſtrainer, take the liquor and ſet it over the fire againe, and take a pint of Engliſh <hi>Honey,</hi> a good handfull of <hi>Reche Allum,</hi> as much of white <hi>Copperas</hi> tinne beaten, a penny worth of <hi>Graines</hi> bruiſed, and let them boyle all together three or four warms, and then let the ſcum be taken off with a fea<g ref="char:EOLhyphen"/>ther, and when it is cold put it in an earthen pot or bottell, ſo as it may be kept cloſe; and for an old Wound take of the thinneſt, and for a green Wound, of the thickeſt, and having dreſſed them with this Water, cover the ſoare either with <hi>Veale,</hi> or <hi>Mutton,</hi> and skin it with <hi>Dock</hi> leaves.</p>
+               </div>
+               <div type="recipe">
+                  <head>For a Swelling that cometh ſuddenly in mans Limbs.</head>
+                  <p>Take <hi>Harts</hi> tongue, <hi>Cherſoyle,</hi> and cut them ſmall, and then take dreggs of <hi>Ale,</hi> and <hi>Wheat</hi> Branne, and <hi>Sheeps</hi> 'tallow molten, and doe all in a pot, and ſeeth them till they be thick, and then make a Plaiſter, and lay it to the ſwelling.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Apricocks.</head>
+               <div type="recipe">
+                  <head>To dry Apricocks.</head>
+                  <p>TAke them when they be ripe, ſtone them, and pare off their rindes very thin, then take halfe as much <hi>Sugar</hi> as they weigh, finely beaten, and lay them with that <hi>Sugar</hi> into a ſilver or earthen diſh, laying firſt a lay of <hi>Sugar,</hi> and then of Fruit, and let them ſtand ſo all night, and in the morning the <hi>Sugar</hi> will be all melted, then put them into a Skillet, and boyle them apace, ſcumming them well, and as ſoon as they grow tender take them off from the fire, and let them ſtand two dayes in the Syrupe, then take them
+<pb n="35" facs="tcp:118333:19"/>
+                     <figure>
+                        <figDesc>two apricots on a branch with several leaves</figDesc>
+                        <head>Aprecocks</head>
+                     </figure> out, and lay them on a fine plate, and ſo dry them in a Stove.</p>
+               </div>
+               <div type="recipe">
+                  <head>Clear Cakes of Quinces, or Apricocks.</head>
+                  <p>Take of the beſt <hi>Sugar</hi> finely beaten and ſearced, one pound, to a pound of <hi>Quinces,</hi> or <hi>Apricocks,</hi> ſet your <hi>Sugar</hi> upon a chaſin diſh of coales, and dry it above halfe an houre, then cooling it, ſtir in<g ref="char:EOLhyphen"/>to it a little <hi>Musk</hi> and <hi>Ambergreeſe</hi> finely beaten, and powdered, then pare your <hi>Quinces,</hi> and boyle them in faire water whole, till they be tender, and not covering them, for ſo they will be white; then take them, and ſcrape off all the <hi>Quince</hi> to the coare, into a filver diſh, and boyle it therein till it grow dry, which you ſhall perceive by the rifing of it up, when it is thus well dryed, take it off, let it coole, and ſtrew on the <hi>Sugar,</hi> letting ſome other to ſtrew it, till it be all throughly wrought in, then lay it out on glaſſes, plates, or prints of Flowers, or letters, an inch thick, or leſſe as you pleaſe.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="36" facs="tcp:118333:20"/>
+                  <head>The best way to Preſerve Apricocks.</head>
+                  <p>Take the weight of your <hi>Apricocks,</hi> what quantity ſoever you mind to uſe, in <hi>Sugar</hi> finely beaten, pare and ſtone the <hi>Apricocks,</hi> and lay them in the <hi>Sugar,</hi> in your preſerving pan all night, and in the morning ſet them upon hot embers till the <hi>Sugar</hi> be all melt<g ref="char:EOLhyphen"/>ed, then let them ſtand, and ſcald an hour, then take them off the fire, and let them ſtand in that Syrupe two dayes, and then boyle them ſoftly till they be tender and well coloured, and after that when they be cold put them up in glaſſes or pots, which you pleaſe.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Lillies.</head>
+               <div type="application">
+                  <head>The uſe of Oyle of Lillies.</head>
+                  <p>OYle of <hi>Lillies</hi> is good to ſupple, mollifie, and ſtretch ſinews that be ſhrunk, it is good to annoynt the ſides and veines in the fits of the <hi>Stone.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To Candy all kinde of Flowers as they grow, with their ſtalks on.</head>
+                  <p>Take the Flowers, and cut the ſtalks ſomewhat ſhort, then take one pound of the whiteſt and hardeſt <hi>Sugar</hi> you can get, put to it eight ſpoonfulls of <hi>Roſe</hi> water, and boyle it till it will roule be<g ref="char:EOLhyphen"/>tween your ſingers and your thumb, then take it from the fire, coole it with a ſtick, and as it waxeth cold, dip in all your Flow<g ref="char:EOLhyphen"/>ers, and taking them out againe ſuddenly, lay them one by one on the bottome of a Sive; then turne a joyned ſtoole with the feet upwards, ſet the ſive on the feet thereof, cover it with a faire linnen cloath, and ſet a chafin-diſh of coales in the middeſt of the ſtoole underneath the ſive, and the heat thereof will run up to the five, and dry your Candy preſently; then box them up, and they will keep all the year, and look very pleaſantly.</p>
+               </div>
+               <div type="recipe">
+                  <pb n="37" facs="tcp:118333:20"/>
+                  <head>To make the Rock Candies upon all Spices, Flowers, and Roots.</head>
+                  <p>Take two pound of <hi>Barbary Sugar,</hi> Clarifie it with a pint of wa<g ref="char:EOLhyphen"/>ter, and the whites of two <hi>Eggs,</hi> then boyle it in a poſnet to the height of <hi>Manus Chriſti,</hi> then put it into an earthen Pipkin, and therewith the things that you will Candy, as <hi>Cinamon, Ginger, Nut<g ref="char:EOLhyphen"/>megs, Roſe huds, Marigolds, Eringo roots, &amp;c.</hi> cover it, and ſtop it cloſe with clay or paſte, then put it into a Still, with a leaſurely fire under it, for the ſpace of three dayes and three nights, then open the pot, and if the Candy begin to come, keep it unſtopped for the ſpace of three or four dayes more, and then leaving the Syrupe, take out the Candy, lay it on a Wyer grate, and put it in an Oven after the bread is drawne, and there let it remaine one night, and your Candy will dry. This is the beſt way for rock Candy, making ſo ſmall a quantity.</p>
+               </div>
+               <div type="recipe">
+                  <head>The Candy Sucket for green Ginger, Let<g ref="char:EOLhyphen"/>tice, Flowers.</head>
+                  <p>Whatſoever you have Preſerved, either Hearbs, Fruits, or Flowers, take them out of the Syrupe, and waſh them in warm water, and dry them well, then boyle the <hi>Sugar</hi> to the height of Candy, for Flowers, and draw them through it, then lay them on the bottome of a Sive, dry them before the fire, and when they are enough, box them for your uſe. This is that the <hi>Comfet-ma<g ref="char:EOLhyphen"/>kers</hi> uſe and call <hi>Sucket Candy.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Grapes.</head>
+               <div type="recipe">
+                  <head>Syrupe Greſta, or a Syrupe of <g ref="char:V">Ʋ</g>nripe Grapes.</head>
+                  <p>Take a good basket full of unripe <hi>Grapes,</hi> ſet them three dayes in a veſſel after they be gathered, ſtamp them, and ſtraine out the juice out of them, take thereof ſix quarts, boyle it with a ſoft fire till the third part be conſumed, then four quarts will re<g ref="char:EOLhyphen"/>maine, let that run through a woollen bagge, and ſtand till it be
+<pb n="38" facs="tcp:118333:21"/>clear in it ſelfe, then take of the cleareſt of it, ſeven pints, put thereto give pound of Clarified <hi>Sugar,</hi> boyle them together to the thickneſſe of a Syrupe, and keep it in a glaſſe; it is good for a perbreaking ſtomach, proceeding of Choller, and for a ſwelling ſtomach, it taketh away thirſt and dryneſſe, and chollerick <hi>Agues,</hi> it is of great comfort to the ſtomach of Women being with child, it is a preſervative againſt all manner of Venome, and againſt the Peſtilence.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>OF PURGES.</head>
+               <div type="recipe">
+                  <head>A Purge to drive out the French Pox, before you uſe the Oyntment.</head>
+                  <p>Take halfe a pint of good <hi>Aqua vitae,</hi> one ounce of <hi>Treacle</hi> of <hi>Gene,</hi> one quarter of an ounce of <hi>Spermacaeti,</hi> boyle all theſe toge<g ref="char:EOLhyphen"/>ther on a ſoft fire halfe a quarter of an hour, and let the Patient drink this as warme as he can, and lye downe in his bed, and ſweat, and if any of the Diſeaſe be in his body, this will bring it forth, and bring him to an eaſie looſneſſe; this is thought the beſt and ſureſt of all other Cures for this infirmity.</p>
+               </div>
+               <div type="recipe">
+                  <head>The Oyntment for the French Pox.</head>
+                  <p>Take <hi>Barrowes</hi> greaſe well tryed from the filmes, beat it in a Morter till it be ſmall and fine, put thereto of <hi>Lethargy</hi> one ounce, of <hi>Maſtick</hi> in fine powder two ounces, of <hi>Olibanum</hi> in powder, one ounce, of Oyle of <hi>Spike</hi> one ounce, Oyle of <hi>Paliolum</hi> one ounce, of <hi>Terpentine</hi> one quarter of a pound, beat all theſe together into a perfect Oyntment, and therewith annoynt theſe places.</p>
+               </div>
+               <div type="recipe">
+                  <head>What place to annoynt for the French Pox.</head>
+                  <p>The principall bone in the Nape of the Neck, without the ſhoulder places, taking heed it come not neer the channell bone, for then it will make the throat ſwell, elſe not, the elbowes on
+<pb n="39" facs="tcp:118333:21"/>both ſides, the hip bones, the ſhare, the knees, the hammes, and the ankles; if the Patient have no Ache, annoynt not theſe pla<g ref="char:EOLhyphen"/>ces, but only the ſores till they be whole; if there be any knobs lying in the fleſh, as many have, annoynt them often, and lay lint upon them, and brown paper upon the lint, and keep the Fa<g ref="char:EOLhyphen"/>tient cloſe out of the aire, and this uſed will make him whole in ten dayes by the grace of God.</p>
+               </div>
+               <div type="recipe">
+                  <head>For a paine in the ears, or deafneſſe.</head>
+                  <p>Take a hot loafe, of the bigneſſe of a Bakers penny loaf, and pull or cut it in two in the middeſt, and lay the middle of the crummy ſide to the middeſt, or to the hole of the ears or ears pained, as hot as they may be endured, and ſo bind them faſt to<g ref="char:EOLhyphen"/>gether on all night, and then if you find any pain in either or both ears, or any noyſe, put into the pained ear or ears, a drop of <hi>Aqua vitae,</hi> in each, and then againe binding more hot bread to them, walk a little while, and after goe to bed; this done three or four dayes together, hath taken away the paine, hearing noyſe in the ears, and much eaſed the deafneſſe, and dullneſſe of and in many.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Marigolds.</head>
+               <div type="recipe">
+                  <head>A very good Plaiſter to heale and dry up a Sore or Cut ſuddenly.</head>
+                  <p>TAke of <hi>Marigold</hi> leaves, <hi>Porret</hi> blades or leaves, and <hi>Houſleke,</hi> of all two handfulls, beat them all very ſmall in a Morter, and put to them the whites of two new-layd Eggs, and beat them ve<g ref="char:EOLhyphen"/>ry well till they be throughly incorporated with the Eggs, and apply this till you be well, renew it every day.</p>
+               </div>
+               <div type="application">
+                  <head>The uſe of Conſerve of Marigolds.</head>
+                  <p>Conſerve of <hi>Marigolds</hi> taken faſting in the morning, is good for Melancholy, cureth the trembling and ſhaking of the heart, is good to be uſed againſt the Plague, and Corruption of the Aire.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:118333:22"/>
+               <head>Of Cherries.</head>
+               <div type="recipe">
+                  <head>A way to dry Cherries.</head>
+                  <p>Take three quarters of a pound of <hi>Sugar,</hi> and a pound of <hi>Cher<g ref="char:EOLhyphen"/>ries,</hi> their ſtalks and ſtones taken from them, then put a ſpoonfull of clean water in the Skillet, and ſo lay a lay of <hi>Cherries</hi> and ano<g ref="char:EOLhyphen"/>ther of <hi>Sugar,</hi> till your quantity be out, then ſet them on the fire, and boyle them as faſt as conveniently you can, now and then ſhaking them about the Skillet, for fear of burning, and when you think they are enough, and clear, then take them off the fire, and let them ſtand till they be halfe cold, then take them out as clear from the Syrupe as you can, and lay them one by one upon ſheets of glaſſe, ſetting them either abroad in the ſunne, or in a window where the ſunne may continually be upon them. If they dry not ſo faſt as you would have them, then in the turning ſcrape ſome loafe <hi>Sugar</hi> finely upon them, but add no greater heat then the ſunne will afford, which will be ſufficient if they be well tended, and let no dew fall on them by any means, but in the evening ſet them in ſome warm Cupboard.</p>
+               </div>
+               <div type="recipe">
+                  <head>How to Preſerve Cherries.</head>
+                  <p>Take the <hi>Cherries</hi> when they be new gathered off the Tree, be<g ref="char:EOLhyphen"/>ing full ripe, put them to the bottome of your Preſerving pan, weighing to every pound of <hi>Cherries,</hi> one pound of <hi>ſugar,</hi> then throw ſome of the <hi>ſugar</hi> upon the <hi>Cherries,</hi> and ſet them on a very quick fire, and as they boyle throw on the reſt of the <hi>ſugar,</hi> till the Syrupe be thick enough, then take them out, and put them in a gally pot while they are warm; you may if you will, put two or three ſpoonfulls of <hi>Roſe-water</hi> to them.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make all manner of Fruit Tarts.</head>
+                  <p>You muſt boyle your Fruit, whether it be <hi>Apple, Cherry, Peach, Damſon, Peare, Mulberry,</hi> or <hi>Codling,</hi> in faire water, and when they be boyled enough, put them into a bowle, and bruiſe them with a ladle, and when they be cold ſtraine them, and put in red wine, or
+<pb n="41" facs="tcp:118333:22"/>
+                     <figure>
+                        <figDesc>cherries (two pairs and one single) on a branch with four pairs of leaves</figDesc>
+                        <head>Cherries</head>
+                     </figure> 
+                     <hi>Clarret</hi> wine, and ſo ſeaſon it with <hi>ſugar, cinamon,</hi> and <hi>ginger.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To make a cloſe Tart of Cherries.</head>
+                  <p>Take out the ſtones, and lay them as whole as you can in a Charger, and put <hi>Muſtard, Cinamon,</hi> and <hi>Sugar,</hi> into them, and lay them into a Tart whole, and cloſe them, then let them ſtand three quarters of an hour in the Oven, and then make a Syrupe of <hi>Mus<g ref="char:EOLhyphen"/>kadine,</hi> and <hi>Damask-water,</hi> and <hi>ſugar,</hi> and ſo ſerve it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make fine Pippin Tarts.</head>
+                  <p>Quarter, pare, core, and ſtew your <hi>Pippins</hi> in a Pipkin, upon very hot embets, cloſe covered, a whole day, for they muſt ſtew
+<pb n="42" facs="tcp:118333:23"/>ſoftly, then put to them ſome whole <hi>Cinamon,</hi> ſix <hi>Cloves,</hi> and <hi>ſugar</hi> enough to make them ſweet, and ſome <hi>Roſe-water,</hi> and when they are ſtewed enough, take them off the fire, and take all the Spice from them, and break them ſmall like <hi>Marmalade,</hi> and having your Coffins ready made, not above an inch deep, fill them with it, and lay on a very thin cover of puffe paſte, cloſe and fit, ſo bake them, ſerve them in cold, but you muſt take heed you doe not over<g ref="char:EOLhyphen"/>take them.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make a Tart of Butter and Eggs.</head>
+                  <p>Take the yolks of ſixteene <hi>Eggs</hi> well parted from the whites, three quarters of a pound of <hi>Butter</hi> well Clarified, and ſtraine it twice or thrice in a faire ſtrainer, ſeaſoned with <hi>ſugar</hi> and a little <hi>Roſe water,</hi> wherein <hi>Spinage</hi> firſt a little boyled, hath been ſtrained, to make it green; be ſure your paſte be well made, and whole, and ſo bake it up, and ſerve it.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Gooſe-Berries.</head>
+               <div type="recipe">
+                  <head>To keep Gooſe-Berries.</head>
+                  <p>Take a handfull or two of the worſer of your <hi>Gooſe-Berries,</hi> cut off their ſtalks and heads, and boyle them all to pieces, in a pot<g ref="char:EOLhyphen"/>tell of water, putting into the boyling thereof, halfe a quarter of <hi>ſugar,</hi> then take the liquor, ſtraine it through a haire ſtrainer, and while it cooleth cut off the ſtalks and heads of the faireſt <hi>Gooſe-Berries,</hi> being very carefull you cut not the skin of them above or below; put them into a gally pot, and pour the liquor in after them.</p>
+                  <p>
+                     <hi>Purſlaine</hi> muſt be uſed as you doe the <hi>Gooſe-Berries.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>The beſt way to Preſerve Gooſe-Berries.</head>
+                  <p>Gather them with their ſtalks on, cut off their heads, and ſtone them, then put them in ſcalding water, and let them ſtand there<g ref="char:EOLhyphen"/>in covered a quarter of an hour, then take their weight in <hi>ſugar,</hi> finely beaten, and laying firſt a lay of <hi>ſugar,</hi> then one of your <hi>Gooſe-Berries,</hi> in your Preſerving Skillet or pan, till all be in, putting in
+<pb n="43" facs="tcp:118333:23"/>for every pound of <hi>Gooſe-Berries,</hi> ſix ſpoonfulls of water, ſet them on the embers till the <hi>ſugar</hi> be melted, then boyle them up as faſt as you can, till the Syrupe be thick enough, and cold, and then put them up. This way ſerves alſo for <hi>Reſpaſſes</hi> and <hi>Mulberries.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Plums.</head>
+               <div type="recipe">
+                  <head>The beſt way to dry Plums.</head>
+                  <p>Take your <hi>Plums</hi> when they are full growne, with the ſtalks on them, but yet green, ſplit them on the one ſide, and put them in hot water, but not too hot, and ſo let them ſtand three or four hours, then to a ſpoonfull of them, take three quarters of a pound of <hi>ſugar,</hi> beaten very fine, and eight ſpoonfulls of water to every pound, and ſet them on hot embers till the <hi>ſugar</hi> be melted, and after that boyle them till they be very tender, letting them ſtand in that Syrupe three dayes to plump them, then take them out, waſh the Syrupe from them with warm water, and wipe them with a fine linnen cloath, very dry, and lay them on plates, and ſet them to dry in a Stove, for if you dry them in an Oven, they will be tough.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Preſerve Damſons.</head>
+                  <p>Take <hi>Damſons</hi> before they be full ripe, but new gathered off the Tree, allow to every pound of them a pound of <hi>ſugar,</hi> put a little <hi>Roſe-water</hi> to them, and ſet them in the bottome of your pan, one by one, boyle them with a ſoft fire, and as they leeth ſtrew your <hi>ſugar</hi> upon them, and let them boyle till the Syrupe be thick enough, then while the Syrupe is yet warme, take the <hi>Plums</hi> out, and put them in a gally pot, Syrupe and all.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Preſerve Bullaſſes as green as graſſe.</head>
+                  <p>Take your <hi>Bullaſſes,</hi> as new gathered as you can, wipe them with a cloath, and prick them with a knife, and quaddle them in two waters, cloſe covered, then take a pound of Clarified <hi>ſugar,</hi> and a pint of <hi>Apple water,</hi> boyle them well together (keeping them well ſcummed) unto a Syrupe, and when your <hi>Bullaſſes</hi> are
+<pb n="44" facs="tcp:118333:24"/>well dript from the water, put them into the Syrupe, and warm them three or four times at the leaſt, at the laſt warming take them up, and ſet them a dropping from the Syrupe, and boyle the Syrupe a little by it ſelfe, till it come to a jelly, and then be<g ref="char:EOLhyphen"/>tween hot and cold put them up to keep for all the year.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Preſerve Pares, Pare-Plums, Plums.</head>
+                  <p>Firſt take two pound and a halfe of fine <hi>ſugar,</hi> and beat it ſmall, and put it into a pretty braſſe pot, with twenty ſpoonfulls of <hi>Roſe-water,</hi> and when it boyleth skim it clean, then take it off the fire, and let it ſtand while it be almoſt cold, then take two pound of <hi>Pare-plums,</hi> and wipe them upon a faire cloath, and put them in<g ref="char:EOLhyphen"/>to your Syrupe when it is almoſt cold, and ſo ſet them upon the fire againe, and let them boyle as ſoftly as you can, for when they are boyled enough, the kernels will be yellow, then take them up, but let your Syrupe boyle till it be thick; then put your Plums upon the fire againe, and let them boyle a walme or two, ſo take them from the fire, and let them ſtand in the veſſell all night, and in the morning put them into your pot or glaſſe, and cover them cloſe.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Medlers.</head>
+               <div type="recipe">
+                  <head>To Preſerve Medlers.</head>
+                  <p>Take the faireſt <hi>Medlers</hi> you can get, but let them not be too ripe, then ſet on faire water on the fire, and when it boyleth put in your <hi>Medlers,</hi> and let them boyle till they be ſomewhat ſoft, then while they are hot pill them, cut off their crowns, and take out their ſtones, then take to every pound of <hi>Medlers,</hi> three quar<g ref="char:EOLhyphen"/>ters of a pound of <hi>ſugar,</hi> and a quarter of a pint of <hi>Roſe water,</hi> ſeeth your Syrupe, ſcumming it clean, then put in your <hi>Medlers,</hi> one by one, the ſtalks downward, when your Syrupe is ſomewhat coole then ſet them on the fire againe, let them boyle ſoftly till the Sy<g ref="char:EOLhyphen"/>rupe be enough, then put in a few <hi>Cloves</hi> and a little <hi>Cinamon,</hi> and ſo putting them up in pots reſerve them for your uſe.</p>
+                  <pb n="45" facs="tcp:118333:24"/>
+                  <p>
+                     <figure>
+                        <figDesc>three medlars on a branch with leaves</figDesc>
+                        <head>Medlers</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To make a Tart of Medlers.</head>
+                  <p>Take <hi>Medlers</hi> that be rotten, and ſtamp them, and ſet them up<g ref="char:EOLhyphen"/>on a chafingdiſh with coales, and beat in two yolks of Eggs, boy<g ref="char:EOLhyphen"/>ling till it be ſomewhat thick, then ſeaſon it with <hi>Sugar, Cinamon,</hi> and <hi>Ginger,</hi> and lay it in paſte.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Cucumbers.</head>
+               <div type="recipe">
+                  <head>How to keep Cucumbers.</head>
+                  <p>Take a kettle big enough for your uſe, halfe full of water, make
+<pb n="46" facs="tcp:118333:25"/>it brackiſh with ſalt, boyle therein ten or twenty <hi>Cucumbers,,</hi> cut in halves, then take the raw <hi>Cucumbers,</hi> being ſomewhat little, and put them into the veſſell wherein you will keep them, and when your liquor is cold ſtraine ſo much of it into them, as may keep the <hi>Cucumbers</hi> alwayes covered.</p>
+               </div>
+               <div type="recipe">
+                  <head>To keep boyled Cucumbers.</head>
+                  <p>Take a kettle of water, put ſalt to it, boyle it well, then take your raw <hi>Cucumbers,</hi> put them into it, and keep them with turn<g ref="char:EOLhyphen"/>ing up and downe very ſoftly, till they be as it were per-boyled, then take them out, and lay them aſide till they be cold, then put them up in the veſſel you will keep them in, and when the liquor is cold, ſtraine it into them, till they be all covered.</p>
+               </div>
+               <div type="recipe">
+                  <head>To Pickle Cucumbers to keep all the yeare.</head>
+                  <p>Pare a good quantity of the rindes of <hi>Cucumbers,</hi> and boyle them in a quart of running water, and a pint of wine <hi>Vineger,</hi> with a handfull of <hi>ſalt,</hi> till they be ſoft, then letting them ſtand till the liquor be quite cold, pour out the liquor from the rinds, into ſome little barrell, earthen pot, or other veſſel, that may be cloſe ſtopped, and put as many of the youngeſt <hi>Cucumbers</hi> you can gather, therein, as the liquor will cover, and ſo keep them cloſe covered, that no winde come to them, to uſe all the year till they have new; if your <hi>Cucumbers</hi> be great, 'tis beſt to boyle them in the liquor till they be ſoft.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>OF COOKERY.</head>
+               <div type="recipe">
+                  <head>To make Snow.</head>
+                  <p>Take a quart of thick <hi>Creame,</hi> and five or ſix whites of <hi>Eggs,</hi> a ſauſer full of <hi>ſugar</hi> finely beaten, and as much <hi>Roſe water,</hi> beat them all together, and always as it riſeth take it out with a ſpoon,
+<pb n="47" facs="tcp:118333:25"/>then take a loaf of <hi>Bread,</hi> cut away the cruſt, ſet it in a platter, and a great <hi>Roſemary</hi> buſh in the middeſt of it, then lay your Snow with a Spoon upon the <hi>Roſemary,</hi> and ſo ſerve it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make Spiced Bread.</head>
+                  <p>Take two pound of Manchet paſte, ſweet <hi>Butter</hi> halfe a pound, <hi>Currants</hi> halfe a pound, <hi>ſugar</hi> a quarter, and a little <hi>Mace,</hi> if you will put in any, and make it in a loafe, and bake it in an Oven, no hotter then for Manchet.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make Craknels.</head>
+                  <p>Take five or fix pints of the fineſt <hi>Wheat</hi> flower you can get, to which you muſt put in a ſpoonfull (and not above) of good <hi>Yeſt,</hi> then mingle it well with <hi>Butter, cream, Roſe-water,</hi> and <hi>ſugar,</hi> finely beaten, and working it well into paſte, make it after what forme you will, and bake it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make Veale-tooh's, or Olives.</head>
+                  <p>Take the <hi>Kidney</hi> of a line of <hi>Veale</hi> roaſted, with a good deale of the far, and a little of the fleſh, mingle it very ſmall, and put to it two <hi>Eggs,</hi> one <hi>Nutmeg</hi> finely grated, a good quantity of <hi>ſugar,</hi> a few <hi>Currants,</hi> a little <hi>ſalt,</hi> ſtir them well together, and make them into the form of little <hi>Paſties,</hi> and fry them in a pan with ſweet <hi>Butter.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To make a Barley Creame to procure ſleepe, or Al<g ref="char:EOLhyphen"/>mond Milke.</head>
+                  <p>Take a good handfull of French <hi>Barley,</hi> waſh it cleane in warme water, and boyle it in a quart of fayre water to the halfe, then put out the water from the <hi>Barley,</hi> and put the <hi>Barley</hi> into a pottell of new clean water, with a <hi>Parſley,</hi> and a <hi>Fennell</hi> root, clean waſhed, and picked with <hi>Bourage, Buglos, Violet</hi> leaves, and <hi>Lettice,</hi> of each one handfull, boyle them with the <hi>Barley,</hi> till more then halfe be conſumed; then ſtrayne out the liquor, and take of blanched <hi>Almonds</hi> a handfull, of the ſeeds of <hi>Melons, Cucumbers, Citralls;</hi> and <hi>Gourds,</hi> husked, of each halfe a quarter of an ounce, beat theſe ſeeds, and the <hi>Almonds</hi> together, in a ſtone morter, with ſo much
+<pb n="48" facs="tcp:118333:26"/>
+                     <hi>Sugar,</hi> and <hi>Roſe</hi>-water as is fit, and ſtrayne them through a cleane cloach into the liquor, and drink thereof at night going to bed, and in the night, if this doth not ſufficiently provoke ſleep, then make ſome more of the ſame liquor, and boyle in the ſame the heads, or a little of white <hi>Poppey.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To pickle Oyſters.</head>
+                  <p>Take a peck of the greateſt <hi>Oyſters;</hi> open them, and put the li<g ref="char:EOLhyphen"/>quor that comes from them ſaved by it ſelfe, to as much <hi>White-wine,</hi> and boyle it with a pound of <hi>Pepper</hi> bruiſed, two or three ſpoonfulls of large <hi>Mace,</hi> and a handfull of <hi>ſalt,</hi> till the liquor begin to waſte away; then put in your <hi>Oyſters,</hi> and plump them, and take them off the fire till they be cold, and ſo put them up in little barrels very cloſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make very fine Sauſages.</head>
+                  <p>Take four pound and a halfe of <hi>Porck,</hi> chop it ſmall, and put to it three pound of <hi>Beefe</hi> ſewet, and chop them ſmall together, then put to them a handfull of <hi>Sage,</hi> finely ſhred, one ounce of <hi>Pepper,</hi> one ounce of <hi>Mace,</hi> two ounces of <hi>Cloves,</hi> a good deale of <hi>ſalt,</hi> eight Eggs very well beaten before you put them in, then work them well with your hand, till they be throughly mingled, and then fill them up. Some like not the Eggs in them, it is not amiſſe there<g ref="char:EOLhyphen"/>fore to leave them out.</p>
+               </div>
+               <div type="recipe">
+                  <head>To caſt all kind of Sugar works into Moulds.</head>
+                  <p>Take one pound of <hi>Barabry Sugar,</hi> Clarifie it with the white of an Egg, boyle it till it will roule between your finger and your thumb, then caſt it into your ſtanding Moulds, being watered two hours before in cold water, take it out and gild them to garniſh a <hi>Marchpine</hi> with them at your pleaſure.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make all kinde of turned works in fruitage, hollow.</head>
+                  <p>Take the ſtrongeſt bodyed <hi>Sugar</hi> you can get, boyle it to the height of <hi>Manus Chriſti,</hi> take your ſtone, or rather pewter moulds, being made in three pieces, tye the two great pieces together with <hi>Inkle,</hi> then poure in your <hi>Sugar</hi> being highly boyled, turne
+<pb n="49" facs="tcp:118333:26"/>it round about your head apace, and ſo your fruitage will be hol<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow, whether it be <hi>Orange,</hi> or <hi>Lemmon,</hi> or whatſoever your Mould doth caſt, after they be caſt you muſt colour them after their natu<g ref="char:EOLhyphen"/>dall colours.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make a Sallet of all kinde of Hearbs.</head>
+                  <p>Take your Hearbs and pick them very fine in faire water, and pick your Flowers by themſelves, and waſh them clean, then ſwing them in a ſtrayner, and when you put them into a diſh min<g ref="char:EOLhyphen"/>gle them with <hi>Cucumbers</hi> or <hi>Lemmons</hi> pared and ſliced, alſo ſcrape <hi>ſugar,</hi> and put in <hi>Vineger</hi> and <hi>Oyle,</hi> then ſpread the Flowers on the top of the <hi>ſallet,</hi> and with every ſort of the aforeſaid things garniſh the diſh about, then take Eggs boyled hard, and lay about the diſh and upon the Sallet.</p>
+               </div>
+               <div type="recipe">
+                  <head>To make Fritter-ſtuffe.</head>
+                  <p>Take fine flower, and three or four Eggs, and put into the flow<g ref="char:EOLhyphen"/>er, and a piece of Butter, and let them boyle all together in a diſh or chaffer, and put in <hi>ſugar, cinamon, ginger,</hi> and <hi>roſe</hi> water, and in the boyling put in a little grated Bread, to make it big, then put it into a diſh, and beat it well together, and ſo put it into your mould, and fly it with clarified Butter, but your Butter may not be too hot, nor too cold.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
